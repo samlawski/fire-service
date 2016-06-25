@@ -1,4 +1,14 @@
+/* Global */
+body {
+  font-family: $base-font-family;
+}
+
 /* Navigation */
 .navbar-toggle .icon-bar {
   background-color: black;
+}
+
+.logo {
+  font-family: $logo-font-family;
+  color: $brand-color;
 }
