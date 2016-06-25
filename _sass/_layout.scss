@@ -1,4 +1,8 @@
 /* Global */
+body {
+  background-color: $background-color;
+  color: black;
+}
 .website-wrapper {
   max-width: $max-width;
   margin: auto;
@@ -7,6 +11,9 @@
   font-family: $base-font-family;
   background-color: $background-color;
 }
+
+h1 {font-size: 36px;}
+h2 {font-size: 26px;}
 
 /* Header & Navigation */
 nav.navbar-fixed-top.navbar {

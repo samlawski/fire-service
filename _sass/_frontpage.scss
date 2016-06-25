@@ -1,0 +1,15 @@
+#angebote {
+  margin-top: -100px;
+}
+
+.angebot {
+  background-color: $background-transparent;
+  margin: 10px;
+  box-shadow: 0 1px 10px #888;
+  .content {
+    padding: 15px 20px;
+  }
+  header {
+    border-bottom: 3px solid $color-primary;
+  }
+}
