@@ -39,6 +39,9 @@ nav.navbar-fixed-top.navbar {
 .logo {
   font-family: $logo-font-family;
   color: $brand-color;
+
+  border-top: 18px solid;
+  font-size: 1.5em;
 }
 
 .header-image {
