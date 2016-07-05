@@ -51,6 +51,8 @@ $max-width:    1440px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "helper",
+        "typography",
         "layout",
         "frontpage"
 ;
