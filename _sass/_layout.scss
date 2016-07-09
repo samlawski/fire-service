@@ -50,6 +50,20 @@ nav.navbar-fixed-top.navbar {
 }
 
 /* Footer */
+.cta-box {
+  background-color: $brand-color-light;
+  padding: 30px;
+  color: white;
+  .cta-call {
+    font-weight: 900;
+    font-size: 2em;
+  }
+  input, button, textarea {
+    margin-top: 10px;
+  }
+}
+
+/* Footer */
 .website-wrapper>footer {
   border-top: 1px solid #ccc;
   padding: 4px;

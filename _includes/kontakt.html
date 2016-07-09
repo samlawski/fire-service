@@ -1,13 +1,21 @@
-<div id="kontakt" class="container">
+<div id="kontakt" class="container space-before">
   <div class="row">
     <div class="col-xs-12 col-md-8 col-md-offset-2">
       <h1>
         Nimm jetzt Kontakt auf!
       </h1>
-      <div class="lead text-center">(+49) 030 777 1234</div>
-      <form>
-        <input type="text" class="form-control">
-      </form>
+      <div class="text-center cta-box">
+        <div class="lead cta-call">(+49) 030 777 1234</div>
+        <hr>
+        <small>oder per email:</small>
+        <br>
+        <form>
+          <input type="email" class="form-control" id="InputEmail" placeholder="Email-Adresse">
+          <input type="text" class="form-control" id="InputName" placeholder="Vor- und Nachname">
+          <textarea class="form-control" rows="4" id="InputNachricht" placeholder="Nachricht ..."></textarea>
+          <button type="submit" class="btn btn-default">Submit</button>
+        </form>
+      </div><!-- /cta-box -->
     </div><!-- / col -->
   </div><!-- row -->
 </div><!-- / container -->
