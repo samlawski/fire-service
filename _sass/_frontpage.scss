@@ -5,7 +5,7 @@
 .angebot {
   background-color: $background-transparent;
   margin: 10px;
-  box-shadow: 0 1px 10px #888;
+  box-shadow: $standard-shadow;
   .content {
     padding: 15px 20px;
   }
@@ -14,11 +14,14 @@
   }
 }
 
-#netzwerk {
-  background-color: #eee;
-  padding-bottom: 30px;
-
-  img {
-    margin: auto;
+#ueber {
+  .portrait {
+    box-shadow: $standard-shadow;
+    border: 8px white solid;
   }
+}
+
+#netzwerk {
+  background-color: $grey-color;
+  padding-bottom: 30px;
 }
