@@ -1,0 +1,8 @@
+- name: Beispiel Firma 1
+  logo_path: "http://placehold.it/150?text=Platzhalter"
+- name: Beispiel Firma 2
+  logo_path: "http://placehold.it/150?text=Platzhalter"
+- name: Beispiel Firma 3
+  logo_path: "http://placehold.it/150?text=Platzhalter"
+- name: Beispiel Firma 4
+  logo_path: "http://placehold.it/150?text=Platzhalter"

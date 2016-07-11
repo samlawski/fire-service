@@ -79,30 +79,14 @@ header_image_path: "/assets/images/business-2-raw.jpeg"
   <div class="container">
     <h1>Firmennetzwerk</h1>
     <div class="row">
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <section class="netzwerk text-center">
-          <img class="img-responsive margin-center" src="http://placehold.it/150?text=Platzhalter" /><br>
-          Partner-Firma
-        </section><!-- / netzwerk -->
-      </div><!-- / col -->
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <section class="netzwerk text-center">
-          <img class="img-responsive margin-center" src="http://placehold.it/150?text=Platzhalter" /><br>
-          Partner-Firma
-        </section><!-- / netzwerk -->
-      </div><!-- / col -->
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <section class="netzwerk text-center">
-          <img class="img-responsive margin-center" src="http://placehold.it/150?text=Platzhalter" /><br>
-          Partner-Firma
-        </section><!-- / netzwerk -->
-      </div><!-- / col -->
-      <div class="col-xs-12 col-sm-6 col-md-3">
-        <section class="netzwerk text-center">
-          <img class="img-responsive margin-center" src="http://placehold.it/150?text=Platzhalter" /><br>
-          Partner-Firma
-        </section><!-- / netzwerk -->
-      </div><!-- / col -->
+      {% for firma in site.data.netzwerk %}
+        <div class="col-xs-12 col-sm-6 col-md-3">
+          <section class="netzwerk text-center">
+            <img class="img-responsive margin-center" src="{{firma.logo_path}}" /><br>
+            {{firma.name}}
+          </section><!-- / netzwerk -->
+        </div><!-- / col -->
+      {% endfor %}
     </div><!-- / row -->
   </div><!-- / container -->
 </div><!-- / netzwerk -->
