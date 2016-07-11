@@ -1,7 +1,8 @@
 ---
-layout: page
-header_image: "./assets/images/finanzen-1-raw.jpeg"
+layout: angebot
+header_image: "finanzen-1-raw.jpeg"
 title: Rechnungswesen und Buchhaltung
+permalink: /rechnungswesen-und-buchhaltung/
 ---
 
 ## Eodem quos

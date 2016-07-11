@@ -1,23 +1,23 @@
 #angebote {
   margin-top: -100px;
-}
 
-.angebot {
-  background-color: $background-transparent;
-  margin: 10px;
-  box-shadow: $standard-shadow;
-  .content {
-    padding: 15px 20px;
-  }
-  header {
-    border-bottom: 3px solid $color-primary;
-    transition: all 0.4s;
-  }
-  header:hover {
-    background-color: white;
-  }
-  a:hover {
-    text-decoration: none;
+  .angebot {
+    background-color: $background-transparent;
+    margin: 10px;
+    box-shadow: $standard-shadow;
+    .content {
+      padding: 15px 20px;
+    }
+    header {
+      border-bottom: 3px solid $color-primary;
+      transition: all 0.4s;
+    }
+    header:hover {
+      background-color: white;
+    }
+    a:hover {
+      text-decoration: none;
+    }
   }
 }
 

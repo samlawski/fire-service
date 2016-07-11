@@ -10,12 +10,29 @@
   section {
     background-color: white;
   }
+  footer {
+    border-top: 1px solid #ddd;
+  }
   .main-content {
     h1 {
       font-size: 30px;
       font-family: inherit;
       font-weight: 500;
       color: black;
+    }
+  }
+
+  .andere-angebote {
+    overflow: auto;
+
+    .angebot {
+      width: 50%;
+      float: left;
+      background-size: cover;
+      background-position: 50%;
+      height: 100px;
+      color: white;
+      text-shadow: $standard-shadow;
     }
   }
 }
