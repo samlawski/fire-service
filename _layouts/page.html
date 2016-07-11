@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-<header>
-  {% include nav.html %}
-  <div class="header-image" style="background-image: url('{{page.header_image}}');"></div>
-</header>
+
+{% include header.html %}
 
 <main class="container">
   <div class="row">
@@ -15,9 +13,17 @@ layout: default
         </header>
         <section class="content-padding">
           <a class="help-block" href="{{ "/" | prepend: site.baseurl }}"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span> Zurück zur Startseite</a><br />
-          {{content}}
+          <div class="main-content">{{content}}</div>
         </section>
       </div><!-- / page-content -->
     </div><!-- / col -->
   </div><!-- / row -->
+
+  <div class="row">
+    <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+
+    </div><!-- / col -->
+  </div><!-- / row -->
 </main>
+
+{% include kontakt.html %}

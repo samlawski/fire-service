@@ -1,11 +1,10 @@
 ---
 layout: default
 ---
-<header>
-  {% include nav.html %}
-  <div class="header-image" style="background-image: url('{{page.header_image}}');"></div>
-</header>
+{% include header.html %}
 
 <main>
   {{content}}
 </main>
+
+{% include kontakt.html %}
