@@ -1,0 +1,13 @@
+.page-content {
+  margin-top: -100px;
+  box-shadow: $standard-shadow;
+
+  header {
+    background-color: $background-transparent;
+
+    border-bottom: 3px solid $color-primary;
+  }
+  section {
+    background-color: white;
+  }
+}
