@@ -1,6 +1,6 @@
 ---
 layout: page
-header_image: "business-1-raw.jpg"
+header_image_path: "/assets/images/business-1-raw.jpg"
 title: Geschäftsbedingungen
 permalink: /geschaeftsbedingungen/
 ---

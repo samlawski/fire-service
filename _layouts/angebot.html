@@ -28,7 +28,7 @@ conlapsosque fronde heros.</p>
           {% assign pages = site.pages | where:"layout","angebot" %}
           {% for p in pages %}
             {% unless p.title == page.title %}
-              <a href="{{p.url | prepend: site.baseurl}}" class="angebot content-padding" style="background-image: url('{{"/assets/images/" | prepend:site.baseurl }}{{p.header_image}}');">
+              <a href="{{p.url | prepend: site.baseurl}}" class="angebot content-padding" style="background-image: url('{{p.header_image_path}}');">
                 <h2 class="hidden-xs">{{p.title}}</h2>
               </a><!-- / angebot -->
             {% endunless %}

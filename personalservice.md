@@ -1,6 +1,6 @@
 ---
 layout: angebot
-header_image: "personal-raw.jpg"
+header_image_path: "/assets/images/personal-raw.jpg"
 title: Personalservice
 permalink: /personalservice/
 ---
