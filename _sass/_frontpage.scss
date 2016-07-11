@@ -11,6 +11,13 @@
   }
   header {
     border-bottom: 3px solid $color-primary;
+    transition: all 0.4s;
+  }
+  header:hover {
+    background-color: white;
+  }
+  a:hover {
+    text-decoration: none;
   }
 }
 
