@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-{% include nav.html %}
+<header>
+  {% include nav.html %}
+  <div class="header-image" style="background-image: url('{{page.header_image}}');"></div>
+</header>
 
-{{content}}
-
-{% include footer.html %}
+<main>
+  {{content}}
+</main>
