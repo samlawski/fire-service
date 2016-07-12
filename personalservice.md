@@ -1,8 +1,8 @@
 ---
 layout: angebot
+permalink: /personalservice/
 header_image_path: "/assets/images/personal-raw.jpg"
 title: Personalservice
-permalink: /personalservice/
 ---
 
 # Lorem Ipsum

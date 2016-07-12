@@ -1,8 +1,8 @@
 ---
 layout: page
+permalink: /geschaeftsbedingungen/
 header_image_path: "/assets/images/business-1-raw.jpg"
 title: Geschäftsbedingungen
-permalink: /geschaeftsbedingungen/
 ---
 
 # Lorem Ipsum

@@ -1,8 +1,8 @@
 ---
 layout: page
+permalink: /impressum/
 header_image_path: "/assets/images/business-1-raw.jpg"
 title: Impressum
-permalink: /impressum/
 ---
 
 # Lorem Ipsum

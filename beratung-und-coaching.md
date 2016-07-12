@@ -1,8 +1,8 @@
 ---
 layout: angebot
+permalink: /beratung-und-coaching/
 header_image_path: "/assets/images/coaching-raw.jpg"
 title: Beratung und Coaching
-permalink: /beratung-und-coaching/
 ---
 
 ## Vastius Thescelus flammis paciscor munere
