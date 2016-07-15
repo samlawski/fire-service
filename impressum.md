@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /impressum/
-header_image_path: "/assets/images/business-1-raw.jpg"
+header_image_path: "/assets/images/business-1.jpg"
 title: Impressum
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: angebot
 permalink: /beratung-und-coaching/
-header_image_path: "/assets/images/coaching-raw.jpg"
+header_image_path: "/assets/images/coaching.jpg"
 title: Beratung und Coaching
 ---
 

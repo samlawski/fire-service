@@ -1,7 +1,7 @@
 ---
 layout: angebot
 permalink: /rechnungswesen-und-buchhaltung/
-header_image_path: "/assets/images/finanzen-1-raw.jpeg"
+header_image_path: "/assets/images/finanzen-1.jpg"
 title: Rechnungswesen und Buchhaltung
 ---
 
