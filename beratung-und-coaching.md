@@ -1,27 +1,26 @@
 ---
 layout: angebot
 permalink: /beratung-und-coaching/
-header_image_path: "/assets/images/coaching.jpg"
+header_image_path: /assets/images/coaching.jpg
 title: Beratung und Coaching
 ---
 
-## Vastius Thescelus flammis paciscor munere
 
-Lorem markdownum refluum? Dux flammas satus cursu, enim tuas tetigit posses,
-[magna](http://www.exierat-magnum.com/quatiens-cui) usque campis thalamos
-convaluit. Claudit sequentis est genus [iussorum his
-ut](http://natus-abnuit.net/superest-ebur) pendere incendia utque ego *idque
-redunco palmas*; genu costis. **Tereti mercede venturas**, suus tamen populo iam
-subdita tellus, caeli esse vetus,; visaque ore et! Dixit gratamque remissis,
-femina est *laudemque ferunt* hoste; quae utque quae meditataque repetisse, et.
+Wir beraten Sie bei der Unternehmens-/Vereinsgr&uuml;ndung
 
-- Inmunis carinam diruerent vera sentit veni etiam
-- Nate in donec temeraria et vidit avulsumque
-- Sit est quidem monitu sibi et poenae
+* beim Erstellen einer Unternehmensstruktur
+* beim Aufbau der verschiedenen Arbeitsbereiche
+* bei Antr&auml;gen&nbsp; und Anmeldungen
 
-## Mora Erycis et sua tenebant dextra
 
-Meritis cuncti iurantem, aut dederat; **dote** pariterque te *perque vires*.
-Solebat alimentaque praemia oculis habet. Sed porrigit *talia* deducit, colebat
-via cruentum flava deprendit quoniam distantibus neve falsamque nefanda
-moriemur.
+Sie ben&ouml;tigen eine Beratung/einen Couch zur Ver&auml;nderung der Firmenstruktur?
+
+Sie ben&ouml;tigen Hilfe, um Probleme im Arbeitsablauf zu l&ouml;sen?
+
+Sie k&ouml;nnen zeitweilig das Arbeitsvolumen nicht bew&auml;ltigen?
+
+Sie ben&ouml;tigen Unterst&uuml;tzung durch Projektmanagement?
+
+Dann sind Sie bei uns richtig. Gemeinsam finden wir eine gute L&ouml;sung f&uuml;r Sie und Ihre Unternehmung.
+
+&nbsp;
