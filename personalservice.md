@@ -6,14 +6,20 @@ title: Personalservice
 ---
 
 
-# Lorem Ipsum
+Um Mitarbeiter in einem Unternehmen/Verein anstellen zu k&ouml;nnen, bedarf es ebenfalls diverser Anmeldungen. Wir unterst&uuml;tzen Sie bei diesen vorbereitenden T&auml;tigkeiten.
 
-## Satis Cycneia deam opus
+Wir helfen Ihnen beim Aufbau der Personalakten (Anstellungsvertrag/Stellenbeschreibung/Arbeitsrichtlinie/Anwesenheitsplan/Urlaubsantr&auml;ge/Tarifvertrag uvm.)
 
-Lorem markdownum quotiens cuncta talia adversam gratia pedesque nullaconlapsosque fronde heros. Speciem sensi cupidine, est et geniti veni,attenuarat mixto aequora; invidiosior putat nitidaque. Erubuisse mediis,ferrugine prima.
+Sie suchen Mitarbeiter? Wir geben in Ihrem Auftrag Stellenanzeigen auf oder vermitteln Ihnen diese aus unserem Mitarbeiterpool. Wir bearbeiten die Bewerbungen nach Ihren Vorstellungen und selektieren diese bis hin zu Absageschreiben und Bewerbungsgespr&auml;chen, welche gern auch in unseren R&auml;umen mit Ihnen gemeinsam oder auch ohne Ihre Anwesenheit erfolgen k&ouml;nnen.
 
-> Alto quo mors thalamique virginitas Antaeo effugit metus quam tum ab Tyrrhenianatae respondent, eruit! Fratres et fissa at ignota misit est indoluisse atqueOceano, exstinguor corpora. Nunc *movere* spectabat, ne popularia Venus,prohibente te obscurum rursus!
+Sollten Sie bei einer Auftakttagung Hilfe ben&ouml;tigen, stehen wir Ihnen gern zur Seite mit unseren langj&auml;hrigen Erfahrungen und Kontakten auf diesem Gebiet.
 
-## Tamen declivibus consuetaque creatus colit et recondidit
+Wir bauen nach Ihren Vorstellungen ein Mitarbeitercontrolling und das Berichtswesen auf.
 
-Initis puppe de **Achivos**: respicio: te perque nihil dixit illis Caicus etobliquis vultus, a indicat. Acumine sit hostis superi attollit virgo dixit;timor tibi aut regia fuit, quis et procul, conticuit? Dumque Phineus qui [dicHector](http://excutit.org/dubitaret-aquas), videat Boreas terrasque ascensuferebat victrices accedat. Umeroque bubo miserabile aequora mora exit dat! IllaSolis exacta, extulerat fluet et meorum parere spectandique socer primoquedixit.
+Sie erhalten von uns Unterst&uuml;tzung beim Einrichten von Spesen- oder sonstigen Abrechnungen.
+
+Wir unterst&uuml;tzen Sie beim Aufbau des Fuhrparkmanagements durch Schulung und Einweisung Ihrer Mitarbeiter oder als Serviceleistung durch unsere Dienstleistung.
+
+In enger Abstimmung mit Ihnen und in Zusammenarbeit mit dem Lohnb&uuml;ro aus unserem Netzwerk &uuml;bernehmen wir auch die laufende Lohnabrechnung und F&uuml;hrung der Personalakten.
+
+&nbsp;
