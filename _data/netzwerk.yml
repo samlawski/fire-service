@@ -1,12 +1,14 @@
 - name: 'RA für Handels- und Gesellschaftsrecht sowie Fachanwalt für Steuerrecht, Dr. Niels George'
   logo_path: /uploads/georgepartner_rechtsanwälte_logo_rgb-min.png
-- name: Versicherungsmaklerservice Hertrich-Ohmann
-  logo_path: /uploads/logo-min.jpg
+  link: "http://www.georgepartner.de"
 - name: RA für Arbeitsrecht Dr. Krenz
   logo_path: 'http://placehold.it/350x150?text=Platzhalter'
 - name: KONTOR Steuerberatungsgesellschaft mbH Köpenick
   logo_path: 'http://placehold.it/350x150?text=Platzhalter'
 - name: Brinker Pharma Consulting als Berater im Bereich Regulatory und Medical Affairs für die Gesundheitsindustrie in der EU
   logo_path: 'http://placehold.it/350x150?text=Platzhalter'
+- name: Versicherungsmaklerservice Hertrich-Ohmann
+  logo_path: /uploads/logo-min.jpg
+  link: "http://www.mjho.de"
 - name: 'PEIX Healthcare Communication, Agentur für Design & Kommunikation GmbH'
   logo_path: 'http://placehold.it/350x150?text=Platzhalter'
