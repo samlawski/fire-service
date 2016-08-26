@@ -70,16 +70,16 @@ header_image_path: /assets/images/business-2.jpg
     <h1>Firmennetzwerk</h1>
     <div class="netzwerk-wrapper">
       {% for firma in site.data.netzwerk %}
-        {% if firma.link.length > 0 %}
-          <a href="{{firma.link}}" target="_blank" class="netzwerk text-center">
-            <img src="{{firma.logo_path}}" />
-            <span>{{firma.name}}</span>
-          </a><!-- / netzwerk -->
-        {% else %}
+        {% if firma.link == "" %}
           <section class="netzwerk text-center">
             <img src="{{firma.logo_path}}" />
             <span>{{firma.name}}</span>
           </section><!-- / netzwerk -->
+        {% else %}
+          <a href="{{firma.link}}" target="_blank" class="netzwerk text-center">
+            <img src="{{firma.logo_path}}" />
+            <span>{{firma.name}}</span>
+          </a><!-- / netzwerk -->
         {% endif %}
       {% endfor %}
     </div><!-- / row -->
