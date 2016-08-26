@@ -14,7 +14,7 @@ title: Geschäftsbedingungen
 
 **&sect; 1 Vertragsparteien**
 
-Parteien dieses Vertrages sind der Kunde (nachfolgend "Auftraggeber") und FiRe Service & Consulting, Bismarckstra&szlig;e 63, 12169 Berlin (nachfolgend "Auftragnehmer"). Sollte sich eine Partei bei der Durchf&uuml;hrung dieses Vertrages Dritter bedienen, so werden diese nicht Vertragspartner. Soweit nicht ausdr&uuml;cklich anderes bestimmt, entfaltet dieser Vertrag keine Schutzwirkung zugrunsten Dritter. Die Leistungen des Auftragnehmers erfolgen ausschlie&szlig;lich auf Grundlage dieser Gesch&auml;ftsbedingungen. Diese gelten auch f&uuml;r alle k&uuml;nftigen Gesch&auml;ftsbeziehungen, auch wenn sie nicht nochmals ausdr&uuml;cklich vereinbart werden. Die zu &uuml;bernehmenden Leistungen werden in einem gesonderten Vertrag festgehalten.
+Parteien dieses Vertrages sind der Kunde (nachfolgend “Auftraggeber”) und FiRe Service & Consulting, Bismarckstra&szlig;e 63, 12169 Berlin (nachfolgend “Auftragnehmer”). Sollte sich eine Partei bei der Durchf&uuml;hrung dieses Vertrages Dritter bedienen, so werden diese nicht Vertragspartner. Soweit nicht ausdr&uuml;cklich anderes bestimmt, entfaltet dieser Vertrag keine Schutzwirkung zugrunsten Dritter. Die Leistungen des Auftragnehmers erfolgen ausschlie&szlig;lich auf Grundlage dieser Gesch&auml;ftsbedingungen. Diese gelten auch f&uuml;r alle k&uuml;nftigen Gesch&auml;ftsbeziehungen, auch wenn sie nicht nochmals ausdr&uuml;cklich vereinbart werden. Die zu &uuml;bernehmenden Leistungen werden in einem gesonderten Vertrag festgehalten.
 
 **&sect; 2 Verg&uuml;tung und F&auml;lligkeit**
 
@@ -36,7 +36,7 @@ Die Vertragsparteien vereinbaren f&uuml;r die gem&auml;&szlig; &sect; 1 dieses V
 
 **&sect; 5 M&auml;ngelbeseitigung**
 
-(1) Der Auftraggeber hat Anspruch auf Beseitigung etwaiger M&auml;ngel. Dem Auftragnehmer ist Gelegenheit zur Nachbesserung zu geben. Beseitigt der Auftagnehmer die geltend gemachten M&auml;ngel nicht innerhalt einer angemessenen Frist oder lehnt er die M&auml;ngelbeseitigung ab, so kann der Auftraggeber im Rahmen &sect; 5, auf Kosten des Auftragnehmers, die M&auml;ngel beseitigen lassen bzw. nach seiner Wahl eine angemessene Herabsetzung der Verg&uuml;tung verlangen.
+(1) Der Auftraggeber hat Anspruch auf Beseitigung etwaiger M&auml;ngel. Dem Auftragnehmer ist Gelegenheit zur Nachbesserung zu geben. Beseitigt der Auftragnehmer die geltend gemachten M&auml;ngel nicht innerhalb einer angemessenen Frist oder lehnt er die M&auml;ngelbeseitigung ab, so kann der Auftraggeber im Rahmen &sect; 5, auf Kosten des Auftragnehmers, die M&auml;ngel beseitigen lassen bzw. nach seiner Wahl eine angemessene Herabsetzung der Verg&uuml;tung verlangen.
 
 (2) Offenbare Unrichtigkeiten (z.B. Schreib-. Rechen- oder &Uuml;bertragungsfehler) k&ouml;nnen vom Auftragnehmer jederzeit auch Dritten gegen&uuml;ber berichtigt werden. Sonstige M&auml;ngel darf der Auftragnehmer Dritten gegen&uuml;ber, mit Einwilligung des Auftraggebers, berichtigen. Die Einwilligung ist nicht erforderlich, wenn berechtigte Interessen des Auftragnehmers, den Interessen des Auftraggebers, vorgehen.
 
