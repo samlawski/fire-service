@@ -1,18 +1,18 @@
 - name: 'RA für Handels- und Gesellschaftsrecht sowie Fachanwalt für Steuerrecht, Dr. Niels George'
   logo_path: /uploads/georgepartner_rechtsanwälte_logo_rgb-min.png
-  link: "http://www.georgepartner.de"
-- name: RA für Arbeitsrecht Dr. Krenz
-  logo_path: 'http://placehold.it/350x150?text=Platzhalter'
-  link: ""
+  link: 'http://www.georgepartner.de'
 - name: KONTOR Steuerberatungsgesellschaft mbH Köpenick
-  logo_path: 'http://placehold.it/350x150?text=Platzhalter'
-  link: ""
-- name: Brinker Pharma Consulting als Berater im Bereich Regulatory und Medical Affairs für die Gesundheitsindustrie in der EU
-  logo_path: 'http://placehold.it/350x150?text=Platzhalter'
-  link: ""
+  logo_path: /uploads/kontor.png
+  link: 'http://www.stbk-berlin.de/'
 - name: Versicherungsmaklerservice Hertrich-Ohmann
   logo_path: /uploads/logo-min.jpg
-  link: "http://www.mjho.de"
+  link: 'http://www.mjho.de'
 - name: 'PEIX Healthcare Communication, Agentur für Design & Kommunikation GmbH'
-  logo_path: 'http://placehold.it/350x150?text=Platzhalter'
-  link: ""
+  logo_path: /uploads/peix.png
+  link: 'http://www.peix.de/'
+- name: Rechtsanwalt Dr. Sven Tintemann
+  logo_path: /uploads/advoadvice.png
+  link: 'http://www.advoadvice.de'
+- name: 'Hecht, von Luxburg'
+  logo_path: /uploads/hecht.png
+  link: 'http://www.hecht-kollegen.de'
