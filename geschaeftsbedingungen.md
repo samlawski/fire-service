@@ -42,7 +42,7 @@ Die Vertragsparteien vereinbaren f&uuml;r die gem&auml;&szlig; &sect; 1 dieses V
 
 **&sect; 6 Haftung**
 
-Die Haftung des Auftragnehmers f&uuml;r Sch&auml;den, die durch seine Person verursacht sind, abgesehen von der Herbeif&uuml;hrung des Schadens infolge grober Fahrl&auml;ssigkeit und Vorsatz, ist begrenzt auf insgesamt h&ouml;chstens den Wert eines durchschnittlichen dreifachen Monatsrechnungsbetrages f&uuml;r einen vollst&auml;ndigen Auswertungsmonat mit Umsatzsteuer. Jede weitergehende Haftung des Auftragnehmers, insbesondere f&uuml;r Folgesch&auml;den, ist ausgeschlossen. Der Schadensersatzanspruch des Auftraggebers verj&auml;hrt nach zwei Jahren von dem Zeitpunkt an, in dem der Anspruch entstanden ist.
+Die Haftung des Auftragnehmers f&uuml;r Sch&auml;den, die durch seine Person verursacht sind, abgesehen von der Herbeif&uuml;hrung des Schadens infolge grober Fahrl&auml;ssigkeit und Vorsatz, ist begrenzt auf insgesamt h&ouml;chstens den Wert eines durchschnittlichen dreifachen Monatsrechnungsbetrages f&uuml;r einen vollst&auml;ndigen Auswertungsmonat ohne Umsatzsteuer. Jede weitergehende Haftung des Auftragnehmers, insbesondere f&uuml;r Folgesch&auml;den, ist ausgeschlossen. Der Schadensersatzanspruch des Auftraggebers verj&auml;hrt nach zwei Jahren von dem Zeitpunkt an, in dem der Anspruch entstanden ist.
 
 **&sect; 7 Aufbewahrungspflicht**
 
@@ -68,7 +68,7 @@ Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage
 
 **&sect; 11 Schlussbestimmungen**
 
-Diese AGB unterliegen deutschem Recht. Als Gerichtsstand gilt der Sitz des Auftragnehmers. Sollte eine Bestimmung dieses Vertrages ganz oder teilweise unwirksam sein oder werden, oder sollte sich in diesem Vertrag eine L&uuml;cke befinden, soll hierdurch die G&uuml;ltigkeit der &uuml;brigen Bestimmungen nicht ber&uuml;hrt werden. Anstelle der unwirksamen Bestimmung verpflichten sich die Vertragsparteien schon jetzt, eine wirksame zu vereinbaren, die dem Sinn und Zweck der unwirksamen Bestimmung m&ouml;glichst nahe kommt. Im Falle einer L&uuml;cke gilt diejenige Bestimmung als vereinbart, die dem entspricht, was nach dem Sinn und Zweck dieses Vertrages vereinbart worden w&auml;re, h&auml;tte man die L&uuml;cke im vorhinhein erkannt.
+Diese AGB unterliegen deutschem Recht. Als Gerichtsstand gilt der Sitz des Auftragnehmers. Sollte eine Bestimmung dieses Vertrages ganz oder teilweise unwirksam sein oder werden, oder sollte sich in diesem Vertrag eine L&uuml;cke befinden, soll hierdurch die G&uuml;ltigkeit der &uuml;brigen Bestimmungen nicht ber&uuml;hrt werden. Anstelle der unwirksamen Bestimmung verpflichten sich die Vertragsparteien schon jetzt, eine wirksame zu vereinbaren, die dem Sinn und Zweck der unwirksamen Bestimmung m&ouml;glichst nahe kommt. Im Falle einer L&uuml;cke gilt diejenige Bestimmung als vereinbart, die dem entspricht, was nach dem Sinn und Zweck dieses Vertrages vereinbart worden w&auml;re, h&auml;tte man die L&uuml;cke im vorherein erkannt.
 
 &nbsp;
 
