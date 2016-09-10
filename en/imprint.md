@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /impressum/
+layout: page_en
+permalink: /en/imprint/
 header_image_path: /assets/images/business-1.jpg
-title: Impressum
+title: Imprint
 ---
 
 

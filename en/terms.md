@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /geschaeftsbedingungen/
+layout: page_en
+permalink: /en/terms/
 header_image_path: /assets/images/business-1.jpg
-title: Geschäftsbedingungen
+title: Terms of Service
 ---
 
 
