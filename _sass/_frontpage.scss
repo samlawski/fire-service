@@ -1,4 +1,4 @@
-#angebote {
+#angebote, #services {
   margin-top: -100px;
 
   .angebot {
@@ -21,14 +21,14 @@
   }
 }
 
-#ueber {
+#ueber, #about {
   .portrait {
     box-shadow: $standard-shadow;
     border: 8px white solid;
   }
 }
 
-#netzwerk {
+#netzwerk, #partners {
   background-color: $grey-color;
   padding-bottom: 30px;
   h1 {padding-bottom: 10px;}
