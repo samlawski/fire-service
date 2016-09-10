@@ -41,6 +41,19 @@ nav.navbar-fixed-top.navbar {
   font-size: 1.5em;
 }
 
+.language-links {
+  color: #aaa;
+  
+  a:link, a, a:visited {
+    text-decoration: none;
+    color: #aaa;
+    transition: all .3s;
+  }
+  a:focus, a:hover {
+    color: #888;
+  }
+}
+
 .header-image {
   height: 600px;
   max-height: 100vh;
