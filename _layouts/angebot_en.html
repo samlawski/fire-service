@@ -1,0 +1,39 @@
+---
+layout: default_en
+---
+
+<main class="container">
+  <div class="row">
+    <div class="col-xs-12 col-lg-offset-1 col-lg-10">
+      <div class="page-content">
+        <header class="content-padding">
+          <h1>{{page.title}}</h1>
+        </header>
+        <section class="content-padding">
+          <a class="help-block" href="{{ "/en" | prepend: site.baseurl }}"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"></span> <span class="editable">Back to homepage</span></a><br />
+          <div class="main-content" data-cms-content-wrapper="/_layouts/angebot_en.html">{{content}}</div>
+        </section>
+
+        <footer class="content-padding">
+          <h3 class="editable">Pickup and Delivery Service</h3>
+          <p class="editable">M&ouml;chten Sie unseren Service in Ihren R&auml;umen nutzen, dann kommen wir gern auch zu Ihnen.<br />Wird unsere Dienstleistung in unseren R&auml;umen durchgef&uuml;hrt, bieten wir Ihnen die M&ouml;glichkeiten an, Ihre Unterlagen abholen zu lassen und bearbeitet direkt in Ihr B&uuml;ro zur&uuml;ckzubekommen.</p>
+          <br />
+          <div class="help-block editable"><p>Weitere Angebote: Durch die Vertriebserfahrung der Unternehmensinhaberin ist es uns ebenfalls m&ouml;glich, Vertriebsstrukturen entsprechend Ihrem Firmenkonzept aufzubauen.</p></div>
+        </footer>
+
+        <div class="andere-angebote">
+          {% assign pages = site.pages | where:"layout","angebot_en" %}
+          {% for p in pages %}
+            {% unless p.title == page.title %}
+              <a href="{{p.url | prepend: site.baseurl}}" class="angebot content-padding" style="background-image: url('{{p.header_image_path}}');">
+                <h2 class="hidden-xs">{{p.title}}</h2>
+              </a><!-- / angebot -->
+            {% endunless %}
+          {% endfor %}
+        </div><!-- / andere-angebote  -->
+      </div><!-- / page-content -->
+    </div><!-- / col -->
+  </div><!-- / row -->
+</main>
+
+{% include kontakt.html %}

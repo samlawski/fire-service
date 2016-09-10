@@ -1,8 +1,8 @@
 ---
-layout: angebot
-permalink: /rechnungswesen-und-buchhaltung/
+layout: angebot_en
+permalink: /en/accounting/
 header_image_path: /assets/images/finanzen-1.jpg
-title: Rechnungswesen und Buchhaltung
+title: Accounting
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-layout: angebot
-permalink: /beratung-und-coaching/
+layout: angebot_en
+permalink: /en/consulting-and-coaching/
 header_image_path: /assets/images/coaching.jpg
-title: Beratung und Coaching
+title: Consulting and Coaching
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-layout: angebot
-permalink: /personalservice/
+layout: angebot_en
+permalink: /en/human-resources/
 header_image_path: /assets/images/personal.jpg
-title: Personalservice
+title: Human Resources
 ---
 
 
