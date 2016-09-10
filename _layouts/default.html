@@ -1,13 +1,9 @@
----
-meta_description: "test"
----
-
 <!DOCTYPE html>
 <html>
 
   <head>
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{{ page.meta_description }}">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     {% include head.html %}
   </head>
 
