@@ -8,9 +8,9 @@
         <small class="editable">oder per email:</small>
         <br />
         <form method="post" action="/danke">
-          <input type="email" name="_replyto" class="form-control" id="InputEmail" placeholder="Email-Adresse" />
-          <input type="text" name="name" class="form-control" id="InputName" placeholder="Vor- und Nachname" />
-          <textarea name="message" class="form-control" rows="4" id="InputNachricht" placeholder="Nachricht"></textarea>
+          <input type="email" name="_replyto" class="form-control" id="InputEmail" placeholder="Email-Adresse" required />
+          <input type="text" name="name" class="form-control" id="InputName" placeholder="Vor- und Nachname" required />
+          <textarea name="message" class="form-control" rows="4" id="InputNachricht" placeholder="Nachricht" required></textarea>
           <input type="hidden" name="_to" value="test@email.com">
           <input type="hidden" name="_subject" value="Nachricht über Kontaktformular">
           <input type="text" name="_gotcha" style="display: none;">
