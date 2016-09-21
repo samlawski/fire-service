@@ -11,7 +11,7 @@ Our services reach over the entire financial accounting:
 * Keeping the account book
 * Recording the debitors and creditors
 * Checking incoming and outgoing invoices
-* &nbsp;
+* Dunning
 * Petty cash (instruction/account)
 * Cash management (instruction/account)
 * Designing an appropriate account parameter with cost centers/donor accounts
