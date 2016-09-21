@@ -22,4 +22,6 @@ Wir unterst&uuml;tzen Sie beim Aufbau des **Fuhrparkmanagements** durch Schulung
 
 In enger Abstimmung mit Ihnen und in Zusammenarbeit mit dem Lohnb&uuml;ro aus unserem Netzwerk &uuml;bernehmen wir auch die **laufende Lohnabrechnung**und **F&uuml;hrung der Personalakten**.
 
+Einen speziellen Service bieten wir pharmazeutischen Unternehmen, die f&uuml;r einzelne Projekte einen **kurzzeitigen Pharmaau&szlig;endienst** ben&ouml;tigen. Freiberufliche PTA's oder Pharmareferenten werden durch uns als Dienstleister beauftragt.
+
 &nbsp;
