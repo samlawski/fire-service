@@ -6,7 +6,7 @@ title: Rechnungswesen und Buchhaltung
 ---
 
 
-Unsere Dienstleistung erstreckt sich &uuml;ber die gesamte Finanzbuchhaltung:
+Unsere Dienstleistungen erstrecken sich &uuml;ber die gesamte Finanzbuchhaltung:
 
 * F&uuml;hren des Rechnungsbuches
 * Erfassen von Debitoten und Kreditoren
