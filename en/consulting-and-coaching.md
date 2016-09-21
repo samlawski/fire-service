@@ -6,21 +6,16 @@ title: Consulting and Coaching
 ---
 
 
-Wir beraten Sie bei der Unternehmens-/Vereinsgr&uuml;ndung
+We will give you advice for the foundation of a company/association
 
-* beim Erstellen einer Unternehmensstruktur
-* beim Aufbau der verschiedenen Arbeitsbereiche
-* bei Antr&auml;gen&nbsp; und Anmeldungen
+* To create a corporate structure/ company structure
+* To build up the different working areas
+* To help with requests and applications
+* Project management (including sales management)
 
 
-Sie ben&ouml;tigen eine Beratung/einen Couch zur Ver&auml;nderung der Firmenstruktur?
+We will give you advice if you want to change the company structure.
 
-Sie ben&ouml;tigen Hilfe, um Probleme im Arbeitsablauf zu l&ouml;sen?
+We will help you with restructuring the working procedures.
 
-Sie k&ouml;nnen zeitweilig das Arbeitsvolumen nicht bew&auml;ltigen?
-
-Sie ben&ouml;tigen Unterst&uuml;tzung durch Projektmanagement?
-
-Dann sind Sie bei uns richtig. Gemeinsam finden wir eine gute L&ouml;sung f&uuml;r Sie und Ihre Unternehmung.
-
-&nbsp;
+Together, we will find a good solution for your company.
