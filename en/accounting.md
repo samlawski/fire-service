@@ -6,19 +6,19 @@ title: Accounting
 ---
 
 
-Unsere Dienstleistung erstreckt sich &uuml;ber die gesamte Finanzbuchhaltung:
+Our services reach over the entire financial accounting:
 
-* F&uuml;hren des Rechnungsbuches
-* Erfassen von Debitoten und Kreditoren
-* Rechnungseingangs- und -ausgangspr&uuml;fung
-* Mahnwesen
-* Portokasse (Anleitung/Abrechnung)
-* Kassenf&uuml;hrung (Anleitung/Abrechnung)
-* Gestaltung eines f&uuml;r Sie passenden Kontenrahmens mit Kostenstellen/Spenderkonten
-* vorbereitende Buchhaltung mit Kontierung
-* Buchen in Zusammenarbeit mit dem Steuerb&uuml;ro aus dem Netzwerk (bei Vereinen ist das Buchen direkt in unserem Hause m&ouml;glich)
-* Aufbau eines firmeninternen Controllings
-* Aufbau und F&uuml;hrung der Anlagenbuchhaltung
-* Erstellen von Spendenbescheinigungen entsprechend Ihrer Freistellungsbescheide vom Finanzamt
-* Erstellen der Abschl&uuml;sse und Meldungen in Zusammenarbeit mit dem Steuerb&uuml;ro aus dem Netzwerk
-* Entwicklung und F&uuml;hrung eines Berichtswesens nach Ihren W&uuml;nschen
+* Keeping the account book
+* Recording the debitors and creditors
+* Checking incoming and outgoing invoices
+* &nbsp;
+* Petty cash (instruction/account)
+* Cash management (instruction/account)
+* Designing an appropriate account parameter with cost centers/donor accounts
+* Preparatory bookkeeping with account assignment
+* Booking in cooperation with the tax office from our network (booking for associations is directly possible in our company)
+* Development of a company-internal controlling
+* Development and controlling of the fixed asset accounting
+* Preparation of donation receipts according to your notices of exemption from the tax authority
+* Preparation of financial statements and reports in cooperation with the tax office from our network
+* Development and controlling of a reporting system according to your wishes
