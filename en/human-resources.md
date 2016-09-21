@@ -6,20 +6,20 @@ title: Human Resources
 ---
 
 
-Um Mitarbeiter in einem Unternehmen/Verein anstellen zu k&ouml;nnen, bedarf es ebenfalls diverser **Anmeldungen**. Wir unterst&uuml;tzen Sie bei diesen vorbereitenden T&auml;tigkeiten.
+To hire employees for a company/association it requires different **applications**. We will support you in these preparatory activities.
 
-Wir helfen Ihnen beim Aufbau der **Personalakten** (Anstellungsvertrag/Stellenbeschreibung/Arbeitsrichtlinie/Anwesenheitsplan/Urlaubsantr&auml;ge/Tarifvertrag uvm.)
+We will help you with the development of **personnel files**(employment contract/job description/working policy (or guidelines)/attendance schedule/vacation requests/collective agreement and many more).
 
-Sie suchen **Mitarbeiter**? Wir geben in Ihrem Auftrag Stellenanzeigen auf oder vermitteln Ihnen diese aus unserem Mitarbeiterpool. Wir bearbeiten die Bewerbungen nach Ihren Vorstellungen und selektieren diese bis hin zu Absageschreiben und Bewerbungsgespr&auml;chen, welche gern auch in unseren R&auml;umen mit Ihnen gemeinsam oder auch ohne Ihre Anwesenheit erfolgen k&ouml;nnen.
+You are looking for **employees**? We will post job advertisements on its behalf or we will select and recruit employees for you from our employee pool. We will work with the applications according to your preferences and divide them in the ones you might be and the ones you might not be interested in. We will even be able to formulate and send the rejections letters and schedule the job interviews, which can also take place in our business rooms together with you or if agreed in your absence.
 
-Sollten Sie bei einer **Auftakttagung** Hilfe ben&ouml;tigen, stehen wir Ihnen gern zur Seite mit unseren langj&auml;hrigen Erfahrungen und Kontakten auf diesem Gebiet.
+If you might have to organize a **kick-off conference**, we will give you advice with our long-term experiences and contacts in this field.
 
-Wir bauen nach Ihren Vorstellungen ein **Mitarbeitercontrolling** und das **Berichtswesen** auf.
+According to your preferences we will build up an **employee controlling** and the **reporting system**.
 
-Sie erhalten von uns Unterst&uuml;tzung beim Einrichten von **Spesen-** oder **sonstigen Abrechnungen**.
+You will receive support from us for setting up the **expense** and **other reports**.
 
-Wir unterst&uuml;tzen Sie beim Aufbau des **Fuhrparkmanagements** durch Schulung und Einweisung Ihrer Mitarbeiter oder als Serviceleistung durch unsere Dienstleistung.
+We will support you in building up a **fleet management**through training and instruction of your employees or as a service performed from us.
 
-In enger Abstimmung mit Ihnen und in Zusammenarbeit mit dem Lohnb&uuml;ro aus unserem Netzwerk &uuml;bernehmen wir auch die**laufende Lohnabrechnung**und **F&uuml;hrung der Personalakten**.
+In close cooperation with you and with the payroll department from our network, we will be able to take over the **current payroll**and the **keeping of personal files**.
 
-&nbsp;
+For pharmaceutical companies, we offer the special service of **recruiting a short-term pharmaceutical sales force**. We engage pharmaceutical-technical assistants or pharmaceutical representatives as freelancers.
