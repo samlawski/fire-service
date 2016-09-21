@@ -11,16 +11,13 @@ Wir beraten Sie bei der Unternehmens-/Vereinsgr&uuml;ndung
 * beim Erstellen einer Unternehmensstruktur
 * beim Aufbau der verschiedenen Arbeitsbereiche
 * bei Antr&auml;gen&nbsp; und Anmeldungen
+* Projektmanagement (inklusive Vertriebsmanagement)
 
 
-Sie ben&ouml;tigen eine Beratung/einen Couch zur Ver&auml;nderung der Firmenstruktur?
+Wir beraten Sie, wenn Sie Ihre Firmenstruktur ver&auml;ndern m&ouml;chten.
 
-Sie ben&ouml;tigen Hilfe, um Probleme im Arbeitsablauf zu l&ouml;sen?
+Wir helfen bei der Umstrukturierung von Arbeitsabl&auml;ufen.
 
-Sie k&ouml;nnen zeitweilig das Arbeitsvolumen nicht bew&auml;ltigen?
-
-Sie ben&ouml;tigen Unterst&uuml;tzung durch Projektmanagement?
-
-Dann sind Sie bei uns richtig. Gemeinsam finden wir eine gute L&ouml;sung f&uuml;r Sie und Ihre Unternehmung.
+Gemeinsam finden wir eine gute L&ouml;sung f&uuml;r Ihr Unternehmen.
 
 &nbsp;
