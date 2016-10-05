@@ -8,7 +8,7 @@ title: Imprint
 
 **FiRe Service & Consulting**
 
-Inhaberin: Cornelia Toussaint
+owner: Cornelia Toussaint
 
 Bismarckstra&szlig;e 63
 
@@ -28,18 +28,22 @@ Finanzamt Berlin-Steglitz
 
 &nbsp;
 
+**Disclaimer**
+
+**Liability for contents**
+
+&nbsp;Our site and its contents was created and compiled with the greatest of care. However, we cannot assume responsibility for the correctness, completeness and up-to-dateness of these contents. In accordance with &sect; 7, section 1 TMG, as a service provider, we are responsible for the contents of this site according to general law. In accordance with &sect;&sect; 8 to 10 TMG, as a service provider, we are not obliged to check the information transmitted or the foreign information which we store, nor to inquire into any circumstances which would indicate illegal activities. Any obligation to remove or stop the use of information in accordance with general law remains unaffected. Any liability resulting thereof will not become effective before a concrete infringement has been registered. Should we become aware of any such infringement, we will take action to remove these contents immediately.
+
+**Liability for links**
+
+Our website contains links to external web-pages from third parties, over which contents we have no influence. As a result, we cannot assume liability for these external contents. The provider or operator is responsible for the contents of these linked pages. Linked pages are checked for any possible infringements of existing laws at the moment of linking. No unlawful contents were identified at the time at which the link was set. It is not reasonable to expect that we exercise permanent textual control of the linked pages without any concrete indications of their infringing the law. Should we become aware of any such infringements, we will take action to remove such links immediately.
+
+**Copyright**
+
+The content and works created by the operator and presented on this web page are subject to the provisions of German copyright law. The duplication, processing, distribution and any kind of use outside the boundaries of copyright law require the written consent of the author or producer concerned. Downloads and copies of these web pages are permitted for private, non-commercial use only. Insofar as contents from this website have not been produced by the operator, we undertake to comply with all third party copyrights. In particular, content from third parties will be identified as such. Should you still have reason to believe that a copyright violation has occurred despite the precautionary measures taken, we would request that you inform us. Should we become aware of any such infringements, we will take action to remove these contents immediately.
+
+**Data protection**
+
+The use of our website is usually possible without providing personal information. Should any personally identifiable information (e.g. name, address or e-mail address) be gathered on our website, this will be performed as far as possible, on a voluntary basis. No personal data will be forwarded to any third parties without your express consent. We would like to point out that the transfer of data on the internet (e.g. during e-mail communication) may involve security gaps. It is not possible to provide complete protection against the access of such data by third parties. We hereby expressly prohibit the use of the contact data published on our contact page for the purpose of sending us any advertising or informational materials which we have not expressly requested. Should the operator receive unsolicited promotional material, such as spam mails etc., the operator expressively reserves the right to take legal action.&nbsp;
+
 &nbsp;
-
-### **Haftungsausschluss:**
-
-**Haftung f&uuml;r Inhalte**
-<br>Die Inhalte unserer Seiten wurden mit gr&ouml;&szlig;ter Sorgfalt erstellt. F&uuml;r die Richtigkeit, Vollst&auml;ndigkeit und Aktualit&auml;t der Inhalte k&ouml;nnen wir jedoch keine Gew&auml;hr &uuml;bernehmen. Als Diensteanbieter sind wir gem&auml;&szlig; &sect; 7 Abs.1 TMG f&uuml;r eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach &sect;&sect; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, &uuml;bermittelte oder gespeicherte fremde Informationen zu &uuml;berwachen oder nach Umst&auml;nden zu forschen, die auf eine rechtswidrige T&auml;tigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unber&uuml;hrt. Eine diesbez&uuml;gliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung m&ouml;glich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
-
-**Haftung f&uuml;r Links**
-<br>Unser Angebot enth&auml;lt Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb k&ouml;nnen wir f&uuml;r diese fremden Inhalte auch keine Gew&auml;hr &uuml;bernehmen. F&uuml;r die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf m&ouml;gliche Rechtsverst&ouml;&szlig;e &uuml;berpr&uuml;ft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
-
-**Urheberrecht**
-<br>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung au&szlig;erhalb der Grenzen des Urheberrechtes bed&uuml;rfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur f&uuml;r den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
-
-**Datenschutz**
-<br>Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten m&ouml;glich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit m&ouml;glich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdr&uuml;ckliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Daten&uuml;bertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht m&ouml;glich. Der Nutzung von im Rahmen der Impressumspflicht ver&ouml;ffentlichten Kontaktdaten durch Dritte zur &Uuml;bersendung von nicht ausdr&uuml;cklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdr&uuml;cklich widersprochen. Die Betreiber der Seiten behalten sich ausdr&uuml;cklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&nbsp;
