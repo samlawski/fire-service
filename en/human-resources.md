@@ -6,9 +6,9 @@ title: Human Resources
 ---
 
 
-To hire employees for a company/association it requires different **applications**. We will support you in these preparatory activities.
+To hire employees for a company/association, it requires different **applications**. We will support you in these preparatory activities.
 
-We will help you with the development of **personnel files**(employment contract/job description/working policy (or guidelines)/attendance schedule/vacation requests/collective agreement and many more).
+We will help you with the development of **personnel files**(employment contract/job description/working policy /attendance schedule/vacation requests/collective agreement and many more).
 
 You are looking for **employees**? We will post job advertisements on its behalf or we will select and recruit employees for you from our employee pool. We will work with the applications according to your preferences and divide them in the ones you might be and the ones you might not be interested in. We will even be able to formulate and send the rejections letters and schedule the job interviews, which can also take place in our business rooms together with you or if agreed in your absence.
 
