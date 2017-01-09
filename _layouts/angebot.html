@@ -26,7 +26,7 @@ layout: default
           {% for p in pages %}
             {% unless p.title == page.title %}
               <a href="{{p.url | prepend: site.baseurl}}" class="angebot content-padding" style="background-image: url('{{p.header_image_path}}');">
-                <h2 class="hidden-xs">{{p.title}}</h2>
+                <h3 class="hidden-xs">{{p.title}}</h3>
               </a><!-- / angebot -->
             {% endunless %}
           {% endfor %}
