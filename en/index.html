@@ -8,7 +8,7 @@ header_image_path: /assets/images/business-2.jpg
     <div class="col-xs-12 visible-sm visible-xs">
       <section class="angebot">
         <div class="content">
-          <h1 class="editable">Services</h1>
+          <h2 class="editable">Services</h2>
         </div>
       </section><!-- / angebot -->
     </div><!-- / col -->
@@ -16,7 +16,7 @@ header_image_path: /assets/images/business-2.jpg
       <section class="angebot">
         <a href="{{ "/en/consulting-and-coaching" | prepend: site.baseurl }}">
           <header class="content">
-            <h2 class="editable">Consulting and Coaching</h2>
+            <h3 class="editable">Consulting and Coaching</h3>
           </header>
         </a>
         <div class="content">
@@ -29,7 +29,7 @@ header_image_path: /assets/images/business-2.jpg
       <section class="angebot">
         <a href="{{ "/en/human-resources" | prepend: site.baseurl }}">
           <header class="content">
-            <h2 class="editable">Human Resources</h2>
+            <h3 class="editable">Human Resources</h3>
           </header>
         </a>
         <div class="content">
@@ -42,7 +42,7 @@ header_image_path: /assets/images/business-2.jpg
       <section class="angebot">
         <a href="{{ "/en/accounting" | prepend: site.baseurl }}">
           <header class="content">
-            <h2 class="editable">Accounting</h2>
+            <h3 class="editable">Accounting</h3>
           </header>
         </a>
         <div class="content">
@@ -61,13 +61,18 @@ header_image_path: /assets/images/business-2.jpg
     <div class="col-xs-12 col-md-6 space-after">
       <img class="img-responsive margin-center portrait editable" id="cms-identifiable-613" data-cms-cid="613" src="/uploads/versions/portrait-min---x0-0-1110-1110-500-500x---.png" width="500" height="500" />
     </div><!-- / col -->
-    <div class="col-xs-12 col-md-6 col-lg-5 space-after editable"><p>The founder of the company, Cornelia Toussaint, has professional work experience in the field of financing and accounting for more than thirty years &nbsp;in the field of human resources for more than twenty years and on the market for twelve years. She is a business economist and already successfully founded, accompanied and advised companies and associations.</p><p>The network that has been built up throughout former jobs enables a complex and stable consultancy.</p></div><!-- / col -->
+    <div class="col-xs-12 col-md-6 col-lg-5 space-after">
+        <h1 class="editable">Cornelia Toussaint</h1>
+        <div class="editable">
+        <p>The founder of FiRe-Service & Consulting, Cornelia Toussaint, has professional work experience in the field of financing and accounting for more than thirty years &nbsp;in the field of human resources for more than twenty years and on the market for twelve years. She is a business economist and already successfully founded, accompanied and advised companies and associations.</p><p>The network that has been built up throughout former jobs enables a complex and stable consultancy.</p>
+        </div>    
+    </div><!-- / col -->
   </div><!-- row -->
 </div><!-- / container -->
 
 <div id="partners">
   <div class="container">
-    <h1 class="editable">Partners</h1>
+    <h2 class="editable">Partners</h2>
     <div class="netzwerk-wrapper">
       {% for firma in site.data.netzwerk %}
         {% if firma.link == "" %}
