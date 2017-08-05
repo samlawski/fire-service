@@ -7,6 +7,6 @@ gem 'jekyll', '3.1.6'
 # gem "sprockets-es6"
 
 group :jekyll_plugins do
-  # gem 'jekyll-sitemap'
+  gem 'jekyll-sitemap'
   # gem "jekyll-assets"
 end
