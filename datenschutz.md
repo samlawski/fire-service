@@ -11,25 +11,27 @@ Unsere Website können Sie grundsätzlich ohne die Angabe von personenbezogenen 
 
 Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst und möchten Sie daher nachfolgend über Ihre Rechte sowie Art und Umfang der jeweiligen Datenerhebung informieren.
 
-1. **Verantwortliche Person**
+1. **Verantwortliche Person und Datenschutzbeauftragter**
 
 **Kontaktdaten des Verantwortlichen**
 
 Für die Verarbeitung verantwortliche Person im Sinne der Datenschutz-Grundverordnung (DS-GVO) und des Bundesdatenschutzgesetzes (BDSG):
 
-Bioprojet Deutschland GmbH
+FiRe Service &amp; Consulting
+
+Inhaberin: Cornelia Toussaint
 
 Bismarckstraße 63
 
 12169 Berlin
 
-Telefon: ** ** +49 (0)30 3465 5460-0
+Telefon: 030 / 7974 7954
 
-Fax: +49 (0)30 3465 5460-9
+Fax: 030/ 7974 5434
 
-Website: www.bioprojet.de
+Website: [http://www.fire-service-consulting.de/](http://www.fire-service-consulting.de/)
 
-E-Mail: info@bioprojet.de
+E-Mail: [toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)
 
 1. **Begriffsbestimmungen**
 
@@ -69,14 +71,6 @@ Eine Einwilligung der betroffenen Person ist jede freiwillig für den bestimmten
 
 Eine Verletzung des Schutzes personenbezogener Daten ist eine Verletzung der Sicherheit, die zur Vernichtung, zum Verlust oder zur Veränderung, ob unbeabsichtigt oder unrechtmäßig, oder zur unbefugten Offenlegung von beziehungsweise zum unbefugten Zugang zu personenbezogenen Daten führt, die übermittelt, gespeichert oder auf sonstige Weise verarbeitet wurden.
 
-**Biometrische Daten**
-
-Biometrische Daten sind mit speziellen technischen Verfahren gewonnene personenbezogene Daten zu den physischen, physiologischen oder verhaltenstypischen Merkmalen einer natürlichen Person, die die eindeutige Identifizierung dieser natürlichen Person ermöglichen oder bestätigen, wie Gesichtsbilder oder daktyloskopische Daten.
-
-**Gesundheitsdaten**
-
-Gesundheitsdaten sind personenbezogene Daten, die sich auf die körperliche oder geistige Gesundheit einer natürlichen Person, einschließlich der Erbringung von Gesundheitsdienstleistungen, beziehen und aus denen Informationen über deren Gesundheitszustand hervorgehen.
-
 **Aufsichtsbehörde**
 
 Die Aufsichtsbehörde ist eine von einem Mitgliedstaat gemäß Art. 51 DS-GVO eingerichtete unabhängige staatliche Stelle, die für die Überwachung der Einhaltung der datenschutzrechtlichen Gesetze und Verordnungen zuständig ist.
@@ -110,32 +104,24 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 1. **(1)**Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu gestalten. Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 2. **(2)**Diese Website nutzt folgende Arten von Cookies, deren Umfang und Funktionsweise im Folgenden erläutert werden:
 
-- **--** Transiente Cookies
-- **--** Persistente Cookies
+- --Transiente Cookies
+- --Persistente Cookies
 
 1. **(3)**Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
 2. **(4)**Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
 3. **(5)**Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und zudem die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie dann jedoch eventuell nicht alle Funktionen dieser Website nutzen können.
-4. **(6)**Wir setzen Cookies ein, um Sie für Folgebesuche identifizieren zu können, falls Sie über einen Account bei uns verfügen. Andernfalls müssten Sie sich für jeden Besuch erneut einloggen.
 
 **Nutzung des Kontaktformulars**
 
-(1)        Bei Ihrer Kontaktaufnahme mit uns über das Kontaktformular auf unserer Website werden zur Beantwortung Ihrer Anfrage die von Ihnen eingegebenen Daten (Ihre E-Mail-Adresse, Ihr Name, und die weiteren von Ihnen angegebenen Daten) im Zeitpunkt der Absendung von uns gespeichert, um Ihr Anliegen zu bearbeiten.
+(1)        Bei Ihrer Kontaktaufnahme mit uns über das Kontaktformular auf unserer Website werden zur Beantwortung Ihrer Anfrage die von Ihnen eingegebenen Daten (Ihre E-Mail-Adresse und regelmäßig Ihr Name, Ihre Telefonnummer und die weiteren von Ihnen angegebenen Daten) im Zeitpunkt der Absendung von uns gespeichert, um Ihr Anliegen zu bearbeiten.
 
 (2)        Alternativ zum Kontaktformular können Sie auch über die auf unserer Website bereitgestellte E-Mail-Adresse, aufzufinden im Impressum, mit uns Kontakt aufnehmen.
 
-(3)        Der Verarbeitung Ihrer personenbezogenen Daten können Sie jederzeit durch das Senden einer E-Mail an [info@bioprojet.de](javascript:void(location.href=&#39;mailto:&#39;+String.fromCharCode(105,110,102,111,64,98,105,111,112,114,111,106,101,116,46,100,101))) widersprechen oder den Widerspruch der Verarbeitung Ihrer personenbezogenen Daten gegenüber den in Abschnitt 1. aufgeführten Person(en) erklären. Treten Sie direkt per E-Mail mit uns in Kontakt, so können Sie der Verarbeitung Ihrer personenbezogenen Daten jederzeit auf denselben Wegen widersprechen.
+(3)        Der Verarbeitung Ihrer personenbezogenen Daten können Sie jederzeit durch das Senden einer E-Mail an [toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)widersprechen oder den Widerspruch der Verarbeitung Ihrer personenbezogenen Daten gegenüber den in Abschnitt 1. aufgeführten Person(en) erklären. Treten Sie direkt per E-Mail mit uns in Kontakt, so können Sie der Verarbeitung Ihrer personenbezogenen Daten jederzeit auf denselben Wegen widersprechen.
 
 (4)        Die in diesem Zusammenhang anfallenden Daten löschen wir, nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 
 (5)        Zielt Ihre Kontaktaufnahme auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten Art. 6 Abs. 1 S. 1 lit. b DS-GVO.
-
-**Einbindung von DocCheck**
-
-1. **(1)**Wir haben auf dieser Website DocCheck eingebunden, um registrierten Nutzern der Community-Plattform Informationen zu unseren Produkten zur Verfügung zu stellen. Bei DocCheck kann unter anderem ein Austausch mit anderen DocCheck-Nutzern stattfinden und es können medizinische Fachinformationen eingesehen werden. Durch die Einbindung von DocCheck können wir unsere Website für Sie als Nutzer interessanter gestalten. Rechtsgrundlage für die Nutzung von DocCheck ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
-2. **(2)**Für die Verbindung mit DocCheck werden die unter Abschnitt 3., „Besuch unserer Website&quot; aufgeführten Daten an DocCheck übermittelt. Zudem werden Cookies (siehe oben Abschnitt 3. „Einsatz von Cookies&quot;) auf Ihrem Computer gespeichert, um so eine Wiedererkennung beim erneuten Besuch unserer Website zu ermöglichen. DocCheck erhebt und speichert Nutzungsdaten nach eigenen Angaben in pseudonymen Profilen, die auf den Servern von DocCheck gespeichert werden und vor Eingriffen und Veränderungen durch unberechtigte Dritte geschützt sind.
-3. **(3)**Die Auswertung können Sie unterbinden durch Löschung vorhandener Cookies und die Verhinderung der Speicherung von Cookies. Die Verhinderung der Speicherung von Cookies ist durch die Einstellung in Ihrem Browser möglich. Wenn Sie die Speicherung der Cookies deaktivieren, weisen wir darauf hin, dass Sie gegebenenfalls diese Website nicht vollumfänglich nutzen können.
-4. **(4)**Informationen des Anbieters: DocCheck Medical Services GmbH, Vogelsanger Str. 66, 50823 Köln. Weitere Informationen des Anbieters zum Datenschutz erhalten Sie unter http://info.doccheck.com/de/privacy/.
 
 **Google Analytics**
 
@@ -145,12 +131,6 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 4. **(4)**Diese Website verwendet Google Analytics mit der Erweiterung „\_anonymizeIp()&quot;. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
 5. **(5)**Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
 6. **(6)**Informationen des Anbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html), Übersicht zum Datenschutz: [http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/intl/de/analytics/learn/privacy.html), sowie die Datenschutzerklärung: [http://www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
-
-**Einbindung von Google Maps**
-
-1. **(1)**Auf dieser Webseite nutzen wir das Angebot von Google Maps. Dadurch können wir Ihnen interaktive Karten direkt in der Website anzeigen und ermöglichen Ihnen die komfortable Nutzung der Karten-Funktion. Rechtsgrundlage für die Verwendung von Google Maps ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
-2. **(2)**Durch den Besuch auf der Website erhält Google die Information, dass Sie die entsprechende Unterseite unserer Website aufgerufen haben. Zudem werden die unter Abschnitt 3., „Einsatz von Cookies&quot; und „Besuch unserer Website&quot;, dieser Erklärung genannten Daten übermittelt. Dies erfolgt unabhängig davon, ob Google ein Nutzerkonto bereitstellt, über das Sie eingeloggt sind, oder ob kein Nutzerkonto besteht. Wenn Sie bei Google eingeloggt sind, werden Ihre Daten direkt Ihrem Konto zugeordnet. Wenn Sie die Zuordnung mit Ihrem Profil bei Google nicht wünschen, müssen Sie sich vor dem Besuch unserer Website von Ihrem Google-Konto ausloggen. Google speichert Ihre Daten als Nutzungsprofile und nutzt sie für Zwecke der Werbung, Marktforschung und/oder bedarfsgerechten Gestaltung seiner Website. Eine solche Auswertung erfolgt insbesondere (selbst für nicht eingeloggte Nutzer) zur Erbringung von bedarfsgerechter Werbung. Ihnen steht ein Widerspruchsrecht zu gegen die Bildung dieser Nutzerprofile, wobei Sie sich zur Ausübung dessen an Google richten müssen.
-3. **(3)**Informationen des Anbieters: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch den Plug-in-Anbieter erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre: [https://www.google.de/intl/de/policies/privacy](https://www.google.de/intl/de/policies/privacy). Google verarbeitet Ihre personenbezogenen Daten auch in den USA und hat sich dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework).
 
 1. **Ihre Rechte**
 
