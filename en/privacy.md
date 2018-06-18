@@ -11,7 +11,7 @@ Unsere Website können Sie grundsätzlich ohne die Angabe von personenbezogenen 
 
 Wir nehmen den Schutz Ihrer personenbezogenen Daten sehr ernst und möchten Sie daher nachfolgend über Ihre Rechte sowie Art und Umfang der jeweiligen Datenerhebung informieren.
 
-1. **Verantwortliche Person und Datenschutzbeauftragter**
+**1) Verantwortliche Person und Datenschutzbeauftragter**
 
 **Kontaktdaten des Verantwortlichen**
 
@@ -33,7 +33,7 @@ Website: [http://www.fire-service-consulting.de/](http://www.fire-service-consul
 
 E-Mail: [toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)
 
-2. **Begriffsbestimmungen**
+**2) Begriffsbestimmungen**
 
 **Personenbezogene Daten**
 
@@ -75,7 +75,7 @@ Eine Verletzung des Schutzes personenbezogener Daten ist eine Verletzung der Sic
 
 Die Aufsichtsbehörde ist eine von einem Mitgliedstaat gemäß Art. 51 DS-GVO eingerichtete unabhängige staatliche Stelle, die für die Überwachung der Einhaltung der datenschutzrechtlichen Gesetze und Verordnungen zuständig ist.
 
-3. **Information über die Verarbeitung personenbezogener Daten**
+**3) Information über die Verarbeitung personenbezogener Daten**
 
 Wir verarbeiten Ihre personenbezogenen Daten durch verschiedene technische Möglichkeiten und ggf. auch unter der Zunahme weiterer Dienstleister. Über die konkreten Details der Verarbeitung möchten wir Sie in den nachfolgenden Punkten informieren.
 
@@ -140,7 +140,7 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **(6)** Informationen des Anbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html), Übersicht zum Datenschutz: [http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/intl/de/analytics/learn/privacy.html), sowie die Datenschutzerklärung: [http://www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
 
-4. **Ihre Rechte**
+**4) Ihre Rechte**
 
 Sie haben uns gegenüber folgende Rechte hinsichtlich der der Verarbeitung der Sie betreffenden personenbezogenen Daten, die Sie jederzeit formlos gegenüber dem oben in 2. aufgeführten Ansprechpartner geltend machen können.
 
