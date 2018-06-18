@@ -33,7 +33,7 @@ Website: [http://www.fire-service-consulting.de/](http://www.fire-service-consul
 
 E-Mail: [toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)
 
-1. **Begriffsbestimmungen**
+2. **Begriffsbestimmungen**
 
 **Personenbezogene Daten**
 
@@ -75,7 +75,7 @@ Eine Verletzung des Schutzes personenbezogener Daten ist eine Verletzung der Sic
 
 Die Aufsichtsbehörde ist eine von einem Mitgliedstaat gemäß Art. 51 DS-GVO eingerichtete unabhängige staatliche Stelle, die für die Überwachung der Einhaltung der datenschutzrechtlichen Gesetze und Verordnungen zuständig ist.
 
-1. **Information über die Verarbeitung personenbezogener Daten**
+3. **Information über die Verarbeitung personenbezogener Daten**
 
 Wir verarbeiten Ihre personenbezogenen Daten durch verschiedene technische Möglichkeiten und ggf. auch unter der Zunahme weiterer Dienstleister. Über die konkreten Details der Verarbeitung möchten wir Sie in den nachfolgenden Punkten informieren.
 
@@ -101,15 +101,15 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **Einsatz von Cookies**
 
-1. **(1)**Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu gestalten. Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
-2. **(2)**Diese Website nutzt folgende Arten von Cookies, deren Umfang und Funktionsweise im Folgenden erläutert werden:
+**(1)** Zusätzlich zu den zuvor genannten Daten werden bei Ihrer Nutzung unserer Website Cookies auf Ihrem Rechner gespeichert. Bei Cookies handelt es sich um kleine Textdateien, die auf Ihrer Festplatte dem von Ihnen verwendeten Browser zugeordnet gespeichert werden und durch welche der Stelle, die den Cookie setzt (hier durch uns), bestimmte Informationen zufließen. Cookies können keine Programme ausführen oder Viren auf Ihren Computer übertragen. Sie dienen dazu, das Internetangebot insgesamt nutzerfreundlicher und effektiver zu gestalten. Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+**(2)** Diese Website nutzt folgende Arten von Cookies, deren Umfang und Funktionsweise im Folgenden erläutert werden:
 
-- --Transiente Cookies
-- --Persistente Cookies
+- Transiente Cookies
+- Persistente Cookies
 
-1. **(3)**Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
-2. **(4)**Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
-3. **(5)**Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und zudem die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie dann jedoch eventuell nicht alle Funktionen dieser Website nutzen können.
+**(3)** Transiente Cookies werden automatisiert gelöscht, wenn Sie den Browser schließen. Dazu zählen insbesondere die Session-Cookies. Diese speichern eine sogenannte Session-ID, mit welcher sich verschiedene Anfragen Ihres Browsers der gemeinsamen Sitzung zuordnen lassen. Dadurch kann Ihr Rechner wiedererkannt werden, wenn Sie auf unsere Website zurückkehren. Die Session-Cookies werden gelöscht, wenn Sie sich ausloggen oder den Browser schließen.
+**(4)** Persistente Cookies werden automatisiert nach einer vorgegebenen Dauer gelöscht, die sich je nach Cookie unterscheiden kann. Sie können die Cookies in den Sicherheitseinstellungen Ihres Browsers jederzeit löschen.
+**(5)** Sie können Ihre Browser-Einstellung entsprechend Ihren Wünschen konfigurieren und zudem die Annahme von Third-Party-Cookies oder allen Cookies ablehnen. Wir weisen Sie darauf hin, dass Sie dann jedoch eventuell nicht alle Funktionen dieser Website nutzen können.
 
 **Nutzung des Kontaktformulars**
 
@@ -125,14 +125,14 @@ Beim Besuch unserer Website, also wenn Sie sich nicht registrieren oder uns ande
 
 **Google Analytics**
 
-1. **(1)**Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google&quot;). Google Analytics verwendet sog. „Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen (siehe oben Abschnitt 3., „Einsatz von Cookies&quot;). Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Website-Betreiber zu erbringen.
-2. **(2)**Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
-3. **(3)**Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browsersoftware verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie über den folgenden Link das Browser-Plug-in zur Deaktivierung von Analytics herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
-4. **(4)**Diese Website verwendet Google Analytics mit der Erweiterung „\_anonymizeIp()&quot;. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
-5. **(5)**Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
-6. **(6)**Informationen des Anbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html), Übersicht zum Datenschutz: [http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/intl/de/analytics/learn/privacy.html), sowie die Datenschutzerklärung: [http://www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
+**(1)** Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google&quot;). Google Analytics verwendet sog. „Cookies&quot;, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen (siehe oben Abschnitt 3., „Einsatz von Cookies&quot;). Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Website, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Website-Aktivitäten zusammenzustellen und um weitere mit der Website-Nutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Website-Betreiber zu erbringen.
+**(2)** Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+**(3)** Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browsersoftware verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie über den folgenden Link das Browser-Plug-in zur Deaktivierung von Analytics herunterladen und installieren: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de).
+**(4)** Diese Website verwendet Google Analytics mit der Erweiterung „\_anonymizeIp()&quot;. Dadurch werden IP-Adressen gekürzt weiterverarbeitet, eine Personenbeziehbarkeit kann damit ausgeschlossen werden. Soweit den über Sie erhobenen Daten ein Personenbezug zukommt, wird dieser also sofort ausgeschlossen und die personenbezogenen Daten damit umgehend gelöscht.
+**(5)** Wir nutzen Google Analytics, um die Nutzung unserer Website analysieren und regelmäßig verbessern zu können. Über die gewonnenen Statistiken können wir unser Angebot verbessern und für Sie als Nutzer interessanter ausgestalten. Für die Ausnahmefälle, in denen personenbezogene Daten in die USA übertragen werden, hat sich Google dem EU-US Privacy Shield unterworfen, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). Rechtsgrundlage für die Nutzung von Google Analytics ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO.
+**(6)** Informationen des Anbieters: Google Dublin, Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001. Nutzerbedingungen: [http://www.google.com/analytics/terms/de.html](http://www.google.com/analytics/terms/de.html), Übersicht zum Datenschutz: [http://www.google.com/intl/de/analytics/learn/privacy.html](http://www.google.com/intl/de/analytics/learn/privacy.html), sowie die Datenschutzerklärung: [http://www.google.de/intl/de/policies/privacy](http://www.google.de/intl/de/policies/privacy).
 
-1. **Ihre Rechte**
+4. **Ihre Rechte**
 
 Sie haben uns gegenüber folgende Rechte hinsichtlich der der Verarbeitung der Sie betreffenden personenbezogenen Daten, die Sie jederzeit formlos gegenüber dem oben in 2. aufgeführten Ansprechpartner geltend machen können.
 
