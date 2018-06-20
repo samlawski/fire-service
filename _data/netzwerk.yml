@@ -1,4 +1,6 @@
-- name: 'RA für Handels- und Gesellschaftsrecht sowie Fachanwalt für Steuerrecht, Dr. Niels George'
+- name: >-
+    RA für Handels- und Gesellschaftsrecht sowie Fachanwalt für Steuerrecht, Dr.
+    Niels George
   logo_path: /uploads/georgepartner_rechtsanwälte_logo_rgb-min.png
   link: 'http://www.georgepartner.de'
 - name: KONTOR Steuerberatungsgesellschaft mbH Köpenick
@@ -16,3 +18,6 @@
 - name: 'Hecht, von Luxburg'
   logo_path: /uploads/hecht.png
   link: 'http://www.hecht-kollegen.de'
+- name: Werk3 für Datenschutz
+  logo_path: /uploads/0-min.png
+  link:
