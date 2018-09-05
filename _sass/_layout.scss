@@ -33,17 +33,26 @@ nav.navbar-fixed-top.navbar {
   background-color: black;
 }
 
-.logo {
-  font-family: $logo-font-family;
-  color: $brand-color;
+.navbar-collapse {
+  padding-top: 15px;
+}
 
-  border-top: 18px solid;
-  font-size: 1.5em;
+.logo {
+  img {
+    margin: 10px 0 -15px 15px;
+    height: 70px;
+    width: auto;
+
+    @media(max-width: 992px){
+      height: 55px;
+    }
+  }
 }
 
 .language-links {
   color: #aaa;
-  
+  text-align: right;
+
   a:link, a, a:visited {
     text-decoration: none;
     color: #aaa;
