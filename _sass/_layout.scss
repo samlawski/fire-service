@@ -32,9 +32,12 @@ nav.navbar-fixed-top.navbar {
 .navbar-toggle .icon-bar {
   background-color: black;
 }
+.navbar-toggle {
+  padding-top: 25px;
+}
 
 .navbar-collapse {
-  padding-top: 20x;
+  padding-top: 25px;
 }
 
 .logo {
