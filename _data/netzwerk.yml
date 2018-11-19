@@ -9,15 +9,12 @@
 - name: Versicherungsmaklerservice Hertrich-Ohmann
   logo_path: /uploads/ohmann.png
   link: 'http://www.mjho.de'
-- name: 'PEIX Healthcare Communication, Agentur für Design & Kommunikation GmbH'
-  logo_path: /uploads/peix.png
-  link: 'http://www.peix.de/'
-- name: Rechtsanwalt Dr. Sven Tintemann
-  logo_path: /uploads/advoadvice.png
-  link: 'http://www.advoadvice.de'
-- name: 'Hecht, von Luxburg'
-  logo_path: /uploads/hecht.png
-  link: 'http://www.hecht-kollegen.de'
 - name: Werk3 für Datenschutz
   logo_path: /uploads/0-min.png
   link: 'https://datenschutz-werk.de/'
+- name: 'PEIX Healthcare Communication, Agentur für Design & Kommunikation GmbH'
+  logo_path: /uploads/peix.png
+  link: 'http://www.peix.de/'
+- name: 'Hecht, von Luxburg'
+  logo_path: /uploads/hecht.png
+  link: 'http://www.hecht-kollegen.de'
