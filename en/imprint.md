@@ -5,7 +5,6 @@ header_image_path: /assets/images/business-1.jpg
 title: Imprint
 ---
 
-
 **FiRe Service & Consulting**
 
 owner: Cornelia Toussaint
@@ -18,15 +17,13 @@ Tel: 030 / 7974 7954
 
 Fax: 030/ 7974 5434
 
-E-Mail: toussaint.fire-service@gmx.de
+E-Mail: ct@fire-service-consulting.de
 
 Steuernummer: 20/562/00273
 
 Umsatzsteuer-ID: DE253989088
 
 Finanzamt Berlin-Steglitz
-
-&nbsp;
 
 **Disclaimer**
 
@@ -45,5 +42,3 @@ The content and works created by the operator and presented on this web page are
 **Data protection**
 
 The use of our website is usually possible without providing personal information. Should any personally identifiable information (e.g. name, address or e-mail address) be gathered on our website, this will be performed as far as possible, on a voluntary basis. No personal data will be forwarded to any third parties without your express consent. We would like to point out that the transfer of data on the internet (e.g. during e-mail communication) may involve security gaps. It is not possible to provide complete protection against the access of such data by third parties. We hereby expressly prohibit the use of the contact data published on our contact page for the purpose of sending us any advertising or informational materials which we have not expressly requested. Should the operator receive unsolicited promotional material, such as spam mails etc., the operator expressively reserves the right to take legal action.&nbsp;
-
-&nbsp;
