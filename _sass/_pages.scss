@@ -20,13 +20,19 @@
       font-weight: 500;
       color: black;
     }
+
+    img {
+      max-width: 100%;
+      margin: auto;
+      padding: 10px 20px;
+    }
   }
 
   .andere-angebote {
     overflow: auto;
 
     .angebot {
-      width: 50%;
+      width: 33.33333333%;
       float: left;
       background-size: cover;
       background-position: 50%;

@@ -21,7 +21,4 @@ Sie erhalten von uns Unterst&uuml;tzung beim Einrichten von **Spesen-** oder **s
 Wir unterst&uuml;tzen Sie beim Aufbau des **Fuhrparkmanagements** durch Schulung und Einweisung Ihrer Mitarbeiter oder &uuml;bernehmen diesen Arbeitsbereich wenn gew&uuml;nscht auch als externer Dienstleister.
 
 In enger Abstimmung mit Ihnen und in Zusammenarbeit mit dem Lohnb&uuml;ro aus unserem Netzwerk &uuml;bernehmen wir auch die **laufende Lohnabrechnung** und **F&uuml;hrung der Personalakten**.
-
-Einen speziellen Service bieten wir pharmazeutischen Unternehmen, die f&uuml;r einzelne Projekte einen **kurzzeitigen Pharmaau&szlig;endienst** ben&ouml;tigen. Freiberufliche PTA’s oder Pharmareferenten werden durch uns in Zusammenarbeit mit PEIX Sales + als Dienstleister beauftragt.
-
 &nbsp;
