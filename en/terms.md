@@ -5,14 +5,13 @@ header_image_path: /assets/images/business-1.jpg
 title: Terms of Service
 ---
 
-
 **Terms and Conditions**
 
 (Last updated August 2016)
 
 **&sect; 1 The contracting parties**
 
-The parties to this agreement are the customer (subsequently referred to as the “Client”) and *FiRe Service & Consulting,* Bismarckstra&szlig;e 63, 12169 Berlin (subsequently referred to as the “Contractor”). Should one of the parties use the services of a third party in the execution of this contract, this third party does not become a party to this contract. Unless an express agreement to the contrary has been concluded, this agreement does not confer any protection to third parties. The services provided by the Contractor are performed exclusively on the basis of these terms and conditions. This applies to all future business relations, even if they have not been subject to repeated express agreement. The services to be performed are set out in a separate agreement.
+The parties to this agreement are the customer (subsequently referred to as the “Client”) and *FiRe Service & Consulting,* Dohnaer Stra&szlig;e 73, 01219 Dresden (subsequently referred to as the “Contractor”). Should one of the parties use the services of a third party in the execution of this contract, this third party does not become a party to this contract. Unless an express agreement to the contrary has been concluded, this agreement does not confer any protection to third parties. The services provided by the Contractor are performed exclusively on the basis of these terms and conditions. This applies to all future business relations, even if they have not been subject to repeated express agreement. The services to be performed are set out in a separate agreement.
 
 **&sect; 2 Remuneration and due date**
 
