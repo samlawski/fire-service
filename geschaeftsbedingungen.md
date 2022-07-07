@@ -5,65 +5,64 @@ header_image_path: /assets/images/business-1.jpg
 title: Geschäftsbedingungen
 ---
 
-
 # AGBs
 
 (Stand 08/2016)
 
 **&sect; 1 Vertragsparteien**
 
-Parteien dieses Vertrages sind der Kunde (nachfolgend “Auftraggeber”) und FiRe Service & Consulting, Bismarckstra&szlig;e 63, 12169 Berlin (nachfolgend “Auftragnehmer”). Sollte sich eine Partei bei der Durchf&uuml;hrung dieses Vertrages Dritter bedienen, so werden diese nicht Vertragspartner. Soweit nicht ausdr&uuml;cklich anderes bestimmt, entfaltet dieser Vertrag keine Schutzwirkung zugunsten Dritter. Die Leistungen des Auftragnehmers erfolgen ausschlie&szlig;lich auf Grundlage dieser Gesch&auml;ftsbedingungen. Diese gelten auch f&uuml;r alle k&uuml;nftigen Gesch&auml;ftsbeziehungen, auch wenn sie nicht nochmals ausdr&uuml;cklich vereinbart werden. Die zu &uuml;bernehmenden Leistungen werden in einem gesonderten Vertrag festgehalten.
+Parteien dieses Vertrages sind der Kunde (nachfolgend “Auftraggeber”) und FiRe Service & Consulting, Dohnaer Stra&szlig;e 73, 01219 Dresden (nachfolgend “Auftragnehmer”). Sollte sich eine Partei bei der Durchführung dieses Vertrages Dritter bedienen, so werden diese nicht Vertragspartner. Soweit nicht ausdrücklich anderes bestimmt, entfaltet dieser Vertrag keine Schutzwirkung zugunsten Dritter. Die Leistungen des Auftragnehmers erfolgen ausschlie&szlig;lich auf Grundlage dieser Geschäftsbedingungen. Diese gelten auch für alle künftigen Geschäftsbeziehungen, auch wenn sie nicht nochmals ausdrücklich vereinbart werden. Die zu übernehmenden Leistungen werden in einem gesonderten Vertrag festgehalten.
 
-**&sect; 2 Verg&uuml;tung und F&auml;lligkeit**
+**&sect; 2 Vergütung und Fälligkeit**
 
-Die Vertragsparteien vereinbaren f&uuml;r die gem&auml;&szlig; &sect; 1 dieses Vertrages zu erbringenden T&auml;tigkeiten ein stundenweises, monatliches oder nach Ende einer in Auftrag gegebenen Dienstleistung f&auml;lliges Honorar. Alle Rechnungen sind 14 Tage nach Erhalt der Rechnung per &Uuml;berweisung auf das vom Auftragnehmer angegebene Firmenkonto f&auml;llig.
+Die Vertragsparteien vereinbaren für die gemä&szlig; &sect; 1 dieses Vertrages zu erbringenden Tätigkeiten ein stundenweises, monatliches oder nach Ende einer in Auftrag gegebenen Dienstleistung fälliges Honorar. Alle Rechnungen sind 14 Tage nach Erhalt der Rechnung per Überweisung auf das vom Auftragnehmer angegebene Firmenkonto fällig.
 
 **&sect; 3 Pflichten des Auftraggebers**
 
-(1) Der Auftraggeber hat dem Auftragnehmer alle ihm zur Erf&uuml;llung seiner Aufgaben nach diesem Vertrag notwendigen Unterlagen vollst&auml;ndig und so rechtzeitig zu &uuml;bergeben, dass dem Auftragnehmer eine angemessene Bearbeitungszeit verbleibt. Dies gilt entsprechend f&uuml;r die Information &uuml;ber alle Vorg&auml;nge und Umst&auml;nde, die f&uuml;r die Durchf&uuml;hrung des Auftrages nach diesem Vertrag von Relevanz sein k&ouml;nnen. Datentr&auml;ger, die der Auftraggeber zur Verf&uuml;gung stellt, m&uuml;ssen inhaltlich und technisch einwandfrei sein. Ist dies nicht der Fall, so hat der Auftraggeber dem Auftragnehmer alle aus der Benutzung dieser Datentr&auml;ger entstandenen Sch&auml;den &nbsp;zu ersetzen.
+(1) Der Auftraggeber hat dem Auftragnehmer alle ihm zur Erfüllung seiner Aufgaben nach diesem Vertrag notwendigen Unterlagen vollständig und so rechtzeitig zu übergeben, dass dem Auftragnehmer eine angemessene Bearbeitungszeit verbleibt. Dies gilt entsprechend für die Information über alle Vorgänge und Umstände, die für die Durchführung des Auftrages nach diesem Vertrag von Relevanz sein können. Datenträger, die der Auftraggeber zur Verfügung stellt, müssen inhaltlich und technisch einwandfrei sein. Ist dies nicht der Fall, so hat der Auftraggeber dem Auftragnehmer alle aus der Benutzung dieser Datenträger entstandenen Schäden &nbsp;zu ersetzen.
 
-(2) Der Auftraggeber hat alle ihm vom Auftragnehmer &uuml;bermittelten Schreiben zur und zu beachten bzw. zu beantworten. Arbeitsergebnisse hat er auf ihre Vollst&auml;ndigkeit und Richtigkeit hin zu &uuml;berpr&uuml;fen und Einwendungen dagegen dem Auftragnehmer unverz&uuml;glich mitzuteilen.
+(2) Der Auftraggeber hat alle ihm vom Auftragnehmer übermittelten Schreiben zur und zu beachten bzw. zu beantworten. Arbeitsergebnisse hat er auf ihre Vollständigkeit und Richtigkeit hin zu überprüfen und Einwendungen dagegen dem Auftragnehmer unverzüglich mitzuteilen.
 
 **&sect; 4 Pflichten des Auftragnehmers**
 
-(1) Der Auftragnehmer hat die ihm &uuml;bertragenen Aufgaben nach den Grunds&auml;tzen ordnungsgem&auml;&szlig;er Buchf&uuml;hrung zu erf&uuml;llen.
+(1) Der Auftragnehmer hat die ihm übertragenen Aufgaben nach den Grundsätzen ordnungsgemä&szlig;er Buchführung zu erfüllen.
 
-(2) Der Auftragnehmer hat insbesondere &uuml;ber alle Tatsachen, die ihm mit der Ausf&uuml;hrung der Aufgaben nach diesem Vertrag zur Kenntnis gelangt sind, Verschwiegenheit zu bewahren, sofern und soweit er nicht vom Auftraggeber hiervon schriftlich entbunden worden ist. Diese Pflicht besteht auch nach Vertragsbeendigung fort. Die Pflicht zur Verschwiegenheit besteht jedoch nicht, sofern eine Offenbarung zur Wahrnehmung eigener Interessen des Auftragnehmers erforderlich ist.
+(2) Der Auftragnehmer hat insbesondere über alle Tatsachen, die ihm mit der Ausführung der Aufgaben nach diesem Vertrag zur Kenntnis gelangt sind, Verschwiegenheit zu bewahren, sofern und soweit er nicht vom Auftraggeber hiervon schriftlich entbunden worden ist. Diese Pflicht besteht auch nach Vertragsbeendigung fort. Die Pflicht zur Verschwiegenheit besteht jedoch nicht, sofern eine Offenbarung zur Wahrnehmung eigener Interessen des Auftragnehmers erforderlich ist.
 
-(3) Der Auftragnehmer hat seine Aufgaben auf der Grundlage der ihm vom Auftraggeber &uuml;bergebenen Unterlagen und Informationen auszu&uuml;ben. Er wird dabei von deren Richtigkeit und Vollst&auml;ndigkeit ausgehen. Sofern und soweit er Unrichtigkeit oder Unvollst&auml;ndigkeiten feststellt, wird er den Auftraggeber darauf hinweisen.
+(3) Der Auftragnehmer hat seine Aufgaben auf der Grundlage der ihm vom Auftraggeber übergebenen Unterlagen und Informationen auszuüben. Er wird dabei von deren Richtigkeit und Vollständigkeit ausgehen. Sofern und soweit er Unrichtigkeit oder Unvollständigkeiten feststellt, wird er den Auftraggeber darauf hinweisen.
 
-**&sect; 5 M&auml;ngelbeseitigung**
+**&sect; 5 Mängelbeseitigung**
 
-(1) Der Auftraggeber hat Anspruch auf Beseitigung etwaiger M&auml;ngel. Dem Auftragnehmer ist Gelegenheit zur Nachbesserung zu geben. Beseitigt der Auftragnehmer die geltend gemachten M&auml;ngel nicht innerhalb einer angemessenen Frist, oder lehnt er die M&auml;ngelbeseitigung ab, so kann der Auftraggeber auf Kosten des Auftragnehmers die M&auml;ngel durch einen Dritten beseitigen lassen, bzw. nach seiner Wahl eine angemessene Herabsetzung der Verg&uuml;tung verlangen.
+(1) Der Auftraggeber hat Anspruch auf Beseitigung etwaiger Mängel. Dem Auftragnehmer ist Gelegenheit zur Nachbesserung zu geben. Beseitigt der Auftragnehmer die geltend gemachten Mängel nicht innerhalb einer angemessenen Frist, oder lehnt er die Mängelbeseitigung ab, so kann der Auftraggeber auf Kosten des Auftragnehmers die Mängel durch einen Dritten beseitigen lassen, bzw. nach seiner Wahl eine angemessene Herabsetzung der Vergütung verlangen.
 
-(2) Offenbare Unrichtigkeiten (z.B. Schreib-. Rechen- oder &Uuml;bertragungsfehler) k&ouml;nnen vom Auftragnehmer jederzeit, auch Dritten gegen&uuml;ber und ohne Kenntnis des Auftraggebers, berichtigt werden. Sonstige M&auml;ngel darf der Auftragnehmer Dritten gegen&uuml;ber mit Einwilligung des Auftraggebers berichtigen. Die Einwilligung ist nicht erforderlich, wenn berechtigte Interessen des Auftragnehmers den Interessen des Auftraggebers vorgehen.
+(2) Offenbare Unrichtigkeiten (z.B. Schreib-. Rechen- oder Übertragungsfehler) können vom Auftragnehmer jederzeit, auch Dritten gegenüber und ohne Kenntnis des Auftraggebers, berichtigt werden. Sonstige Mängel darf der Auftragnehmer Dritten gegenüber mit Einwilligung des Auftraggebers berichtigen. Die Einwilligung ist nicht erforderlich, wenn berechtigte Interessen des Auftragnehmers den Interessen des Auftraggebers vorgehen.
 
 **&sect; 6 Haftung**
 
-Die Haftung des Auftragnehmers f&uuml;r Sch&auml;den, die durch seine Person verursacht werden, abgesehen von der Herbeif&uuml;hrung des Schadens infolge grober Fahrl&auml;ssigkeit und Vorsatz, ist der H&ouml;he nach begrenzt auf den Wert eines durchschnittlichen dreifachen Monatsrechnungsbetrages f&uuml;r einen vollst&auml;ndigen Auswertungsmonat ohne Umsatzsteuer. Jede weitergehende Haftung des Auftragnehmers, insbesondere f&uuml;r Folgesch&auml;den, ist ausgeschlossen. Der Schadensersatzanspruch des Auftraggebers verj&auml;hrt nach zwei Jahren von dem Zeitpunkt an, in dem der Anspruch entstanden ist.
+Die Haftung des Auftragnehmers für Schäden, die durch seine Person verursacht werden, abgesehen von der Herbeiführung des Schadens infolge grober Fahrlässigkeit und Vorsatz, ist der Höhe nach begrenzt auf den Wert eines durchschnittlichen dreifachen Monatsrechnungsbetrages für einen vollständigen Auswertungsmonat ohne Umsatzsteuer. Jede weitergehende Haftung des Auftragnehmers, insbesondere für Folgeschäden, ist ausgeschlossen. Der Schadensersatzanspruch des Auftraggebers verjährt nach zwei Jahren von dem Zeitpunkt an, in dem der Anspruch entstanden ist.
 
 **&sect; 7 Aufbewahrungspflicht**
 
-(1) Der Auftragnehmer hat Handakten f&uuml;r die Dauer von sieben Jahren nach Beendigung des Auftrages aufzubewahren. Diese Verpflichtung erlischt jedoch schon vor Ablauf des Zeitraumes, wenn der Auftragnehmer den Auftraggeber schriftlich aufgefordert hat, diese Akten in Empfang zu nehmen und der Auftraggeber dieser Aufforderung binnen 6 Monaten, nachdem er die Aufforderung erhalten hat, nicht nachgekommen ist.
+(1) Der Auftragnehmer hat Handakten für die Dauer von sieben Jahren nach Beendigung des Auftrages aufzubewahren. Diese Verpflichtung erlischt jedoch schon vor Ablauf des Zeitraumes, wenn der Auftragnehmer den Auftraggeber schriftlich aufgefordert hat, diese Akten in Empfang zu nehmen und der Auftraggeber dieser Aufforderung binnen 6 Monaten, nachdem er die Aufforderung erhalten hat, nicht nachgekommen ist.
 
-(2) Zu den Handakten in diesem Sinne geh&ouml;ren alle Schriftst&uuml;cke, die der Auftragnehmer aus Anlass des Auftrages vom Auftraggeber oder f&uuml;r ihn erhalten hat. Dies gilt jedoch nicht f&uuml;r den Briefwechsel zwischen dem Auftragnehmer und dem Auftraggeber und f&uuml;r Schriftst&uuml;cke, die der Auftragnehmer bereits in Urschrift oder Abschrift erhalten hat, sowie f&uuml;r die zu internen Zwecken gefertigten Arbeitspapiere.
+(2) Zu den Handakten in diesem Sinne gehören alle Schriftstücke, die der Auftragnehmer aus Anlass des Auftrages vom Auftraggeber oder für ihn erhalten hat. Dies gilt jedoch nicht für den Briefwechsel zwischen dem Auftragnehmer und dem Auftraggeber und für Schriftstücke, die der Auftragnehmer bereits in Urschrift oder Abschrift erhalten hat, sowie für die zu internen Zwecken gefertigten Arbeitspapiere.
 
-(3) Auf Anforderung des Auftraggebers, sp&auml;testens nach Beendigung des Auftrages, hat der Auftragnehmer dem Auftraggeber die Handakten innerhalb einer angemessenen Frist herauszugeben. Der Auftragnehmer kann von Unterlagen, die er an den Auftraggeber zur&uuml;ckgibt, Abschriften oder Fotokopien anfertigen und zur&uuml;ckbehalten.
+(3) Auf Anforderung des Auftraggebers, spätestens nach Beendigung des Auftrages, hat der Auftragnehmer dem Auftraggeber die Handakten innerhalb einer angemessenen Frist herauszugeben. Der Auftragnehmer kann von Unterlagen, die er an den Auftraggeber zurückgibt, Abschriften oder Fotokopien anfertigen und zurückbehalten.
 
-(4) Die Aufbewahrungspflicht des Auftragnehmers f&uuml;r Datentr&auml;ger, Listen und Speicherinhalte endet einen Monat nach Aush&auml;ndigung der jeweiligen gedruckten monatlichen Auswertungen oder einen Monat nach Beendigung dieses Vertrages.
+(4) Die Aufbewahrungspflicht des Auftragnehmers für Datenträger, Listen und Speicherinhalte endet einen Monat nach Aushändigung der jeweiligen gedruckten monatlichen Auswertungen oder einen Monat nach Beendigung dieses Vertrages.
 
-**&sect; 8 Herausgabe und Zur&uuml;ckbehaltungsrecht von Arbeitsergebnissen und Unterlagen**
+**&sect; 8 Herausgabe und Zurückbehaltungsrecht von Arbeitsergebnissen und Unterlagen**
 
-Der Auftragnehmer kann die Herausgabe seiner Arbeitsergebnisse und der Handakten verweigern, bis er wegen seiner Geb&uuml;hren und Auslagen befriedigt ist. Dieses gilt nicht, soweit die Zur&uuml;ckbehaltung aufgrund der Umst&auml;nde, insbesondere wegen Unverh&auml;ltnism&auml;&szlig;igkeit, gegen Treu und Glauben versto&szlig;en w&uuml;rde. Bis zur Beseitigung rechtzeitig geltend gemachter M&auml;ngel ist der Auftraggeber zur Zur&uuml;ckbehaltung eines angemessenen Teils des Honorars berechtigt.
+Der Auftragnehmer kann die Herausgabe seiner Arbeitsergebnisse und der Handakten verweigern, bis er wegen seiner Gebühren und Auslagen befriedigt ist. Dieses gilt nicht, soweit die Zurückbehaltung aufgrund der Umstände, insbesondere wegen Unverhältnismä&szlig;igkeit, gegen Treu und Glauben versto&szlig;en würde. Bis zur Beseitigung rechtzeitig geltend gemachter Mängel ist der Auftraggeber zur Zurückbehaltung eines angemessenen Teils des Honorars berechtigt.
 
-**&sect; 9 Vertragsdauer und Vertrags&auml;nderungen**
+**&sect; 9 Vertragsdauer und Vertragsänderungen**
 
-Die Dauer des Vertragsverh&auml;ltnisses wird individuell vereinbart. M&uuml;ndliche oder schriftliche Nebenabreden zu diesem Vertrag bestehen nicht. &Auml;nderungen und Erg&auml;nzungen dieses Vertrages bed&uuml;rfen zu ihrer Wirksamkeit der Schriftform. Dies gilt auch f&uuml;r die &Auml;nderung der vorstehenden Schriftformklausel.
+Die Dauer des Vertragsverhältnisses wird individuell vereinbart. Mündliche oder schriftliche Nebenabreden zu diesem Vertrag bestehen nicht. Änderungen und Ergänzungen dieses Vertrages bedürfen zu ihrer Wirksamkeit der Schriftform. Dies gilt auch für die Änderung der vorstehenden Schriftformklausel.
 
 **&sect; 10 Nichtigkeitsklausel**
 
-Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollst&auml;ndig entsprechen sollten, bleiben die &uuml;brigen Teile des Dokuments in ihrem Inhalt und ihrer G&uuml;ltigkeit davon unber&uuml;hrt.
+Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokuments in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
 
 **&sect; 11 Schlussbestimmungen**
 
-Diese AGB unterliegen deutschem Recht. Als Gerichtsstand gilt der Sitz des Auftragnehmers. Sollte eine Bestimmung dieses Vertrages ganz oder teilweise unwirksam sein oder werden, oder sollte sich in diesem Vertrag eine L&uuml;cke befinden, soll hierdurch die G&uuml;ltigkeit der &uuml;brigen Bestimmungen nicht ber&uuml;hrt werden. Anstelle der unwirksamen Bestimmung verpflichten sich die Vertragsparteien schon jetzt, eine wirksame zu vereinbaren, die dem Sinn und Zweck der unwirksamen Bestimmung m&ouml;glichst nahe kommt. Im Falle einer L&uuml;cke gilt diejenige Bestimmung als vereinbart, die dem entspricht, was nach dem Sinn und Zweck dieses Vertrages vereinbart worden w&auml;re, h&auml;tte man die L&uuml;cke im Vorhinein erkannt.
+Diese AGB unterliegen deutschem Recht. Als Gerichtsstand gilt der Sitz des Auftragnehmers. Sollte eine Bestimmung dieses Vertrages ganz oder teilweise unwirksam sein oder werden, oder sollte sich in diesem Vertrag eine Lücke befinden, soll hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt werden. Anstelle der unwirksamen Bestimmung verpflichten sich die Vertragsparteien schon jetzt, eine wirksame zu vereinbaren, die dem Sinn und Zweck der unwirksamen Bestimmung möglichst nahe kommt. Im Falle einer Lücke gilt diejenige Bestimmung als vereinbart, die dem entspricht, was nach dem Sinn und Zweck dieses Vertrages vereinbart worden wäre, hätte man die Lücke im Vorhinein erkannt.
