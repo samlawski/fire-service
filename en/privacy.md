@@ -4,7 +4,6 @@ permalink: /en/privacy/
 header_image_path: /assets/images/business-1.jpg
 title: Privacy Agreement
 ---
-
 **Datenschutzerklärung**
 
 Unsere Website können Sie grundsätzlich ohne die Angabe von personenbezogenen Daten nutzen. Im Einzelfall kann die Erhebung und Verarbeitung Ihrer personenbezogenen Daten jedoch erforderlich sein, um bestimmte Funktionen unserer Website nutzen zu können. Daneben erheben und verarbeiten wir zur Optimierung unserer Website und Dienste personenbezogene Daten, die wir nach den datenschutzrechtlichen Bestimmungen verarbeiten.
@@ -31,7 +30,7 @@ Fax: 0351 840 324 30
 
 Website: [http://www.fire-service-consulting.de/](http://www.fire-service-consulting.de/)
 
-E-Mail: [toussaint.fire-service@gmx.de](mailto:toussaint.fire-service@gmx.de)
+E-Mail: ct@fire-service-consulting.de
 
 **2) Begriffsbestimmungen**
 
