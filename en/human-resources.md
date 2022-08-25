@@ -4,8 +4,6 @@ permalink: /en/human-resources/
 header_image_path: /assets/images/personal.jpg
 title: Human Resources
 ---
-
-
 To hire employees for a company/association, it requires different **applications**. We will support you in these preparatory activities.
 
 We will help you with the development of **personnel files**(employment contract/job description/working policy /attendance schedule/vacation requests/collective agreement and many more).
@@ -19,7 +17,3 @@ According to your preferences we will build up an **employee controlling** and t
 You will receive support from us for setting up the **expense** and **other reports**.
 
 We will support you in building up a **fleet management**through training and instruction of your employees or as a service performed from us.
-
-In close cooperation with you and with the payroll department from our network, we will be able to take over the **current payroll**and the **keeping of personal files**.
-
-For pharmaceutical companies, we offer the special service of **recruiting a short-term pharmaceutical sales force**. We engage pharmaceutical-technical assistants or pharmaceutical representatives as freelancers.
