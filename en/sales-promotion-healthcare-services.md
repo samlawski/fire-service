@@ -2,9 +2,8 @@
 layout: angebot_en
 permalink: /en/sales-promotion-healthcare-services/
 header_image_path: /assets/images/sales.jpg
-title: Sales Promotion - Healthcare Services
+title: S&P Healthcare Services
 ---
-
 You are facing challenges in the distribution of drugs or medical products?
 
 We offer the support you need by approximately 100 self-employed PTA’s/pharmaceutical representatives/scientists (&sect;75 AMG) throughout Germany.
