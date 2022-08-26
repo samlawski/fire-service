@@ -30,7 +30,7 @@ Fax: 0351 840 324 30
 
 Website: [http://www.fire-service-consulting.de/](http://www.fire-service-consulting.de/)
 
-E-Mail: ct@fire-service-consulting.de
+E-Mail: [ct@fire-service-consulting.de](mailto:ct@fire-service-consulting.de)
 
 **2) Begriffsbestimmungen**
 
