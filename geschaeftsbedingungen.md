@@ -4,10 +4,9 @@ permalink: /geschaeftsbedingungen/
 header_image_path: /assets/images/business-1.jpg
 title: Geschäftsbedingungen
 ---
-
 # AGBs
 
-(Stand 08/2016)
+(Stand 07/2022)
 
 **&sect; 1 Vertragsparteien**
 
