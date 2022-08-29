@@ -4,10 +4,9 @@ permalink: /en/terms/
 header_image_path: /assets/images/business-1.jpg
 title: Terms of Service
 ---
-
 **Terms and Conditions**
 
-(Last updated August 2016)
+(Last updated July 2022)
 
 **&sect; 1 The contracting parties**
 
